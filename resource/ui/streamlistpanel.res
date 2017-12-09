@@ -9,7 +9,7 @@
 		"wide"			"455"
 		"tall"			"25"
 		"visible"		"1"
-			
+
 		"HeaderLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -30,12 +30,12 @@
 			"bgcolor_override"	"0 0 0 100"
 		}
 	}
-		
+
 	"CloseButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CloseButton"
-		"xpos"			"438"
+		"xpos"			"400"
 		"ypos"			"4"
 		"zpos"			"10"
 		"wide"			"14"
@@ -58,15 +58,15 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"Command"		"hide_streams"
-			
+
 		"paintbackground"	"0"
-			
+
 		//"defaultFgColor_override" "235 226 202 255"
 		//"armedFgColor_override" "46 43 42 255"
 		"defaultFgColor_override" "TanLight"
 		"armedFgColor_override" "Base Color"
 		"depressedFgColor_override" "TanLight"
-			
+
 		"image_drawcolor"	"235 226 202 255"
 		"image_armedcolor"	"200 80 60 255"
 		"SubImage"
@@ -82,7 +82,7 @@
 			"enabled"		"0"
 			"image"			"close_button"
 			"scaleImage"	"1"
-		}				
+		}
 	}
 
 	"TitleLabel"
@@ -184,7 +184,7 @@
 		"fieldName"		"Stream_URLButton"
 		"xpos"			"210"
 		"ypos"			"130"
-		"wide"			"145"
+		"wide"			"200"
 		"tall"			"45"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -203,10 +203,10 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 		"defaultFgColor_override" "TanLight"
 		"defaultBgColor_override" "0 0 0 100"
 		"armedFgColor_override" "0 0 0 100"
 		"depressedFgColor_override" "235 226 202 255"
-	}	
+	}
 }

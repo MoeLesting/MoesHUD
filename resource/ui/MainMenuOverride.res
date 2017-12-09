@@ -10,12 +10,12 @@
 		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
-		
+
 	//	"bgcolor_override"	"0 0 0 100"
 
 		"update_url"	"http://store.steampowered.com/news/?filter=updates&appids=440"
 		"blog_url"		"http://www.teamfortress.com/"
-		
+
 		"button_x_offset"	"-100"
 		"button_y"			"120"
 		"button_y_delta"	"5"
@@ -49,15 +49,15 @@
 				"default"		"1"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
-				
+
 				"border_default"	""
 				"border_armed"		""
 				"paintbackground"	"0"
-				
+
 				"defaultFgColor_override" "TanLight"
 				"armedFgColor_override" "Button Color"
 				"depressedFgColor_override" "Button Color"
-				
+
 				"image_drawcolor"	"TanLight"
 				"image_armedcolor"	"Button Color"
 				"image_depressedcolor" "Button Color"
@@ -75,42 +75,42 @@
 					"enabled"		"1"
 					"scaleImage"	"1"
 				}
-			}		
+			}
 		}
-		
+
 		"SaxxySettings"
 		{
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"-101"		
+			"zpos"			"-101"
 			"wide"			"f0"
 			"tall"			"480"
-			
+
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			
+
 			"flashbounds_x"	"50"
 			"flashbounds_y"	"65"
 			"flashbounds_w"	"250"
 			"flashbounds_h"	"120"
-			
+
 			"flashstartsize_min"	"8"
 			"flashstartsize_max"	"12"
-			
+
 			"flash_maxscale"		"4"
-			
+
 			"flash_lifelength_min"	".1"
 			"flash_lifelength_max"	".2"
-			
+
 			"curtain_anim_duration"		"4.0"
 			"curtain_open_time"		"2.8"
 			"flash_start_time"		"4.0"
-			
+
 			"initial_freakout_duration"		"15.0"
 			"clap_sound_duration"	"10.0"
-			
+
 			"CameraFlashSettings"
 			{
 				"visible"		"1"
@@ -121,7 +121,7 @@
 			}
 		}
 	}
-	
+
 	"LeftBorder"
 	{
 		"ControlName"	"ImagePanel"
@@ -136,7 +136,7 @@
 		"scaleImage"	"1"
 		"fillcolor"		"Base Color"
 	}
-	
+
 	"RightBorder"
 	{
 		"ControlName"	"ImagePanel"
@@ -166,13 +166,13 @@
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		"border"		"MainMenuBGBorder"
-		
+
 		"text_ypos"			"20"
 		"text_center"		"1"
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-		
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
@@ -191,7 +191,7 @@
 			"centerwrap"	"1"
 		}
 	}
-	
+
 	"Background"
 	{
 		"ControlName"	"ImagePanel"
@@ -219,7 +219,7 @@
 			"tall"			"f0"
 		}
 	}
-	
+
 	"MainBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -235,7 +235,7 @@
 		"enabled"		"1"
 		"fillcolor"		"TransparentPanelBG"
 	}
-	
+
 	"HudNameBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -251,7 +251,7 @@
 		"enabled"		"1"
 		"fillcolor"		"TransparentPanelBG"
 	}
-	
+
 	"HudName"
 	{
 		"ControlName"	"CExImageButton"
@@ -275,14 +275,14 @@
 		"brighttext"	"0"
 		"default"		"1"
 		"paintbackground""0"
-		
+
 		"defaultFgColor_override" "TanLight"
 		"armedFgColor_override" "Button Color"
-		"depressedFgColor_override" "Button Color"		
-		
+		"depressedFgColor_override" "Button Color"
+
 		"image_drawcolor"	"TanLight"
 		"image_armedcolor"	"Button Color"
-		
+
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
@@ -296,7 +296,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 			"image"			"glyph_quit"
-		}				
+		}
 	}
 
 	"JungleInfernoImage"
@@ -314,7 +314,7 @@
 		"scaleImage"	"1"
 		"mouseinputenabled"	"0"
 	}
-	
+
 	"TFCharacterImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -356,7 +356,7 @@
 
 		"show_progress"	"0"
 	}
-	
+
 	"RankPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
@@ -388,7 +388,7 @@
 		"visible"			"0"
 		"PaintBackgroundType"	"2"
 		"border"			"MainMenuBGBorder"
-		
+
 		"TipSubLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -408,7 +408,7 @@
 			"fgcolor_override"	"117 107 94 255"
 			"wrap"			"1"
 		}
-		
+
 		"TipLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -506,7 +506,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"85"
+		"xpos"			"293"
 		"ypos"			"58"
 		"zpos"			"10"
 		"wide"			"20"
@@ -531,7 +531,7 @@
 			"scaleImage"	"1"
 			"drawcolor" "210 125 33 255"
 		}
-		
+
 		"Notifications_CountLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -590,25 +590,25 @@
 			"brighttext"	"0"
 			"default"		"1"
 			"actionsignallevel" "2"
-			
+
 			"Command"		"noti_show"
-			
+
 			"fgcolor_override" 	"235 226 202 255"
-			
+
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"border_default"	""
 			"border_armed"		""
 			"paintbackground"	"0"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "Button Color"
 			"depressedFgColor_override" "Button Color"
-			
+
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"Button Color"
-			
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -639,7 +639,7 @@
 		"PaintBackgroundType"	"2"
 		"paintbackground"		"0"
 		"border"				"MainMenuHighlightBorder"
-		
+
 		"Notifications_CloseButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -667,11 +667,11 @@
 			"Command"			"noti_hide"
 
 			"paintbackground"	"0"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "Button Color"
 			"depressedFgColor_override" "Button Color"
-			
+
 			"image_drawcolor"	"TanLight"
 			"image_armedcolor"	"Button Color"
 
@@ -688,9 +688,9 @@
 				"enabled"		"1"
 				"image"			"close_button"
 				"scaleImage"	"1"
-			}				
-		}		
-	
+			}
+		}
+
 		"Notifications_TitleLabel"
 		{
 			"ControlName"	"CExLabel"
@@ -709,7 +709,7 @@
 			"fgcolor_override"	"46 43 42 255"
 			"wrap"			"1"
 		}
-		
+
 		"Notifications_Scroller"
 		{
 			"ControlName"	"ScrollableEditablePanel"
@@ -720,7 +720,7 @@
 			"tall"			"135"
 			"PaintBackgroundType"	"2"
 			"fgcolor_override"	"117 107 94 255"
-			
+
 			"Notifications_Control"
 			{
 				"ControlName"	"CMainMenuNotificationsControl"
@@ -747,7 +747,7 @@
 		"pinCorner"		"3"
 		"visible"		"0"
 		"enabled"		"0"
-		
+
 		"MOTD_ShowButtonPanel_SB"
 		{
 			"ControlName"	"CExImageButton"
@@ -767,16 +767,16 @@
 			"Command"		"motd_show"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		""
 			"paintbackground"	"0"
 			"actionsignallevel" "2"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "Button Color"
 			"depressedFgColor_override" "Button Color"
-			
+
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"Button Color"
 
@@ -811,7 +811,7 @@
 		"paintbackground"		"0"
 		"border"				""
 	}
-	
+
 	"CreateServerButton"
 	{
 		"ControlName"	"EditablePanel"
@@ -842,22 +842,22 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-	
+
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		""
 			"paintbackground"	"0"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "Button Color"
 			"depressedFgColor_override" "Button Color"
-			
+
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"72 255 255 255"
-			
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -908,19 +908,19 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		""
 			"paintbackground"	"0"
 			"Command"			"engine bug"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "Button Color"
 			"depressedFgColor_override" "Button Color"
-			
+
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"72 255 255 255"
-			
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -971,19 +971,19 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		""
 			"paintbackground"	"0"
 			"Command"			"engine bug"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "Button Color"
 			"depressedFgColor_override" "Button Color"
-			
+
 			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"72 255 255 255"
-			
+
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1015,7 +1015,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		
+
 		"navUp"			"Notifications_Panel"
 		"navLeft"		"SettingsButton"
 
@@ -1049,7 +1049,7 @@
 
 			"paintbackground"	"0"
 			"paintborder"		"0"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "Button Color"
 			"depressedFgColor_override" "Button Color"
@@ -1085,8 +1085,8 @@
 		"xpos"			"300"
 		"ypos"			"90"
 		"zpos"			"1"
-		"wide"			"300"
-		"tall"			"325"
+		"wide"			"415"
+		"tall"			"180"
 		"visible"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"	"2"
@@ -1192,7 +1192,7 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		""
 			"paintbackground"	"0"
@@ -1254,7 +1254,7 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		""
 			"paintbackground"	"0"
@@ -1337,7 +1337,7 @@
 			"zpos"			"501"
 			"wide"			"f20"
 			"tall"			"160"
-			"visible"		"1"	
+			"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
@@ -1387,14 +1387,14 @@
 				{
 					"fgcolor_override"	"TanDark"
 				}
-		
+
 				"UpButton"
 				{
 					"ControlName"	"Button"
 					"FieldName"		"UpButton"
 					"visible"		"0"
 				}
-		
+
 				"DownButton"
 				{
 					"ControlName"	"Button"
@@ -1413,7 +1413,7 @@
 			"zpos"			"499"
 			"wide"			"f20"
 			"tall"			"160"
-			"visible"		"1"	
+			"visible"		"1"
 			"PaintBackgroundType"	"0"
 			"proportionaltoparent"	"1"
 			"mouseinputenabled"	"0"
@@ -1478,7 +1478,7 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		"MainMenuTabs"
 			"paintbackground"	"1"
@@ -1541,19 +1541,19 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		"MainMenuTabs"
 			"paintbackground"	"1"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "TanLight"
-			
+
 			"defaultBgColor_override" "0 0 0 0"
 			"armedBgColor_override" "TransparentPanelBG"
 			"depressedBgColor_override" "TransparentPanelBG"
-			
+
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
 
@@ -1604,19 +1604,19 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		"MainMenuTabs"
 			"paintbackground"	"1"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "TanLight"
-			
+
 			"defaultBgColor_override" "0 0 0 0"
 			"armedBgColor_override" "TransparentPanelBG"
 			"depressedBgColor_override" "TransparentPanelBG"
-			
+
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
 
@@ -1667,19 +1667,19 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		"MainMenuTabs"
 			"paintbackground"	"1"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "TanLight"
-			
+
 			"defaultBgColor_override" "0 0 0 0"
 			"armedBgColor_override" "TransparentPanelBG"
 			"depressedBgColor_override" "TransparentPanelBG"
-			
+
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
 
@@ -1730,19 +1730,19 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			
+
 			"border_default"	""
 			"border_armed"		"MainMenuTabs"
 			"paintbackground"	"1"
-			
+
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
 			"depressedFgColor_override" "TanLight"
-			
+
 			"defaultBgColor_override" "0 0 0 0"
 			"armedBgColor_override" "TransparentPanelBG"
 			"depressedBgColor_override" "TransparentPanelBG"
-			
+
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
 
@@ -1789,15 +1789,15 @@
 		"border_default"	""
 		"border_armed"		"MainMenuTabs"
 		"paintbackground"	"1"
-		
+
 		"defaultFgColor_override" "TanLight"
 		"armedFgColor_override" "TanLight"
 		"depressedFgColor_override" "TanLight"
-		
+
 		"defaultBgColor_override" "0 0 0 0"
 		"armedBgColor_override" "TransparentPanelBG"
 		"depressedBgColor_override" "TransparentPanelBG"
-		
+
 		"image_drawcolor"	"117 107 94 255"
 		"SubImage"
 		{
@@ -1812,7 +1812,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 			"image"			"glyph_options"
-		}			
+		}
 	}
 
 	"VersionNumber"
@@ -1838,7 +1838,7 @@
 		"fieldName"		"icon_generator"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"1"		
+		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"300"
 		"autoResize"	"0"

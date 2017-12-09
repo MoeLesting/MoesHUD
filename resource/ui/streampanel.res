@@ -157,7 +157,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"border_armed"		"TeamMenuBorder"
-			
+
 		"defaultFgColor_override" "235 226 202 255"
 		"defaultBgColor_override" "0 0 0 0"
 		"armedFgColor_override" "0 0 0 0"

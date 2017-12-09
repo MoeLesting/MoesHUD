@@ -508,7 +508,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"QuitButton"
-			"xpos"			"197"
+			"xpos"			"240"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -565,7 +565,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"DisconnectButton"
-			"xpos"			"197"
+			"xpos"			"240"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -624,7 +624,7 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"ResumeButton"
-			"xpos"			"115"
+			"xpos"			"150"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -682,10 +682,10 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"FindAGameButton"
-			"xpos"			"115"
+			"xpos"			"170"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"70"
+			"wide"			"100"
 			"tall"			"f6"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -698,14 +698,14 @@
 			"brighttext"	"0"
 			"Command"		"find_game"
 			"proportionaltoparent"	"1"
-			"labeltext"		""
+			"labeltext"		"Find A Game"
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"1"
-			"textinsety"	"7"
-			"textinsetx"	"25"
-			"use_proportional_insets"	"1"
+//			"textinsety"	"7"
+//			"textinsetx"	"25"
+//			"use_proportional_insets"	"1"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -732,6 +732,7 @@
 				"scaleImage"	"1"
 				"proportionaltoparent"	"1"
 				"image"			"glyph_multiplayer"
+				"labeltext"		"Find A Game"
 				"drawcolor_override" "TanLight"
 			}
 		}
