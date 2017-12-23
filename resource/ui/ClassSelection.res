@@ -110,7 +110,6 @@
 		"fillcolor"		"Base Color"
 	}
 
-
 	"TopBorder"
 	{
 		"ControlName"	"ImagePanel"
@@ -144,32 +143,32 @@
 
 	"ClassBorder"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"ClassBorder"
-		"xpos"			"0"
-		"ypos"			"25"
-		"zpos"			"0"
-		"wide"			"900"
-		"tall"			"2"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"
-		"fillcolor"		"Base Color"
+	"ControlName"	"ImagePanel"
+	"fieldName"		"ClassBorder"
+	"xpos"			"0"
+	"ypos"			"25"
+	"zpos"			"0"
+	"wide"			"900"
+	"tall"			"2"
+	"visible"		"1"
+	"enabled"		"1"
+	"scaleImage"	"1"
+	"fillcolor"		"Base Color"
 	}
 
 		"CancelBorder"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"CancelBorder"
-		"xpos"			"0"
-		"ypos"			"455"
-		"zpos"			"0"
-		"wide"			"900"
-		"tall"			"2"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"
-		"fillcolor"		"Base Color"
+	"ControlName"	"ImagePanel"
+	"fieldName"		"CancelBorder"
+	"xpos"			"0"
+	"ypos"			"455"
+	"zpos"			"0"
+	"wide"			"900"
+	"tall"			"2"
+	"visible"		"1"
+	"enabled"		"1"
+	"scaleImage"	"1"
+	"fillcolor"		"Base Color"
 	}
 
 

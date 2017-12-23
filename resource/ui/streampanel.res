@@ -108,7 +108,7 @@
 		"textAlignment"	"north-west"
 		"xpos"			"85"
 		"ypos"			"18"
-		"wide"			"200"
+		"wide"			"110"
 		"tall"			"12"
 		"autoResize"	"0"
 		"pinCorner"		"0"
