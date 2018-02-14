@@ -299,45 +299,6 @@
 		}
 	}
 
-	"JungleInfernoImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"JungleInfernoImage"
-		"xpos"			"c-290+64"
-		"ypos"			"64"
-		"zpos"			"1"
-		"wide"			"o4"
-		"tall"			"32"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../logo/inferno_logo_anim"
-		"scaleImage"	"1"
-		"mouseinputenabled"	"0"
-	}
-
-	"TFCharacterImage"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"TFCharacterImage"
-		"xpos"			"c-173"
-
-		if_taller
-		{
-			if_operation
-			{
-				"xpos"		"c-173"
-			}
-		}
-
-		"ypos"			"-80"
-		"zpos"			"-99"
-		"wide"			"600"
-		"tall"			"600"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"
-	}
-
 	"RankModelPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
@@ -1820,7 +1781,7 @@
 		"ControlName"	"CExLabel"
 		"fieldname"		"VersionNumber"
 		"font"			"Cerbetica14"
-		"labelText"		"v12.23.2017"
+		"labelText"		"v2.13.2018"
 		"xpos"			"r65"
 		"ypos"			"r13"
 		"wide"			"80"
