@@ -1781,7 +1781,7 @@
 		"ControlName"	"CExLabel"
 		"fieldname"		"VersionNumber"
 		"font"			"Cerbetica14"
-		"labelText"		"v2.13.2018"
+		"labelText"		"v3.29.2018"
 		"xpos"			"r65"
 		"ypos"			"r13"
 		"wide"			"80"
