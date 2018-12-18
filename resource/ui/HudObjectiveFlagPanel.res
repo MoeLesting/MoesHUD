@@ -12,8 +12,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		
-		"if_hybrid"
-		{
+		"if_hybrid" {
 			"zpos"			"-1"
 		}
 	}
@@ -23,7 +22,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LeftSideBG"
 		"xpos"			"c-120"
-		"ypos"			"r20"	
+		"ypos"			"r20"
 		"zpos"			"-1"
 		"wide"			"120"
 		"tall"			"14"
@@ -32,22 +31,19 @@
 		"fillcolor"		"70 130 180 153"
 		"scaleImage"	"1"	
 		
-		"if_hybrid"
-		{
+		"if_hybrid" {
 			"visible"	"0"
 		}
 		
-		"if_mvm"
-		{
+		"if_mvm" {
 			"visible"	"0"
 		}
 		
-		"if_specialdelivery"
-		{
+		"if_specialdelivery" {
 			"visible"	"0"
 		}
 	}
-		
+	
 	"RightSideBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -62,18 +58,15 @@
 		"fillcolor"		"205 50 50 153"
 		"scaleImage"	"1"	
 		
-		"if_hybrid"
-		{
+		"if_hybrid" {
 			"visible"	"0"
 		}
 		
-		"if_mvm"
-		{
+		"if_mvm" {
 			"visible"	"0"
 		}
 		
-		"if_specialdelivery"
-		{
+		"if_specialdelivery" {
 			"visible"	"0"
 		}
 	}
@@ -93,18 +86,15 @@
 		"image"			"../hud/objectives_flagpanel_bg_outline"
 		"scaleImage"	"1"	
 		
-		"if_hybrid"
-		{
+		"if_hybrid" {
 			"visible"	"0"
 		}
 		
-		"if_mvm"
-		{
+		"if_mvm" {
 			"visible"	"0"
 		}
 		
-		"if_specialdelivery"
-		{
+		"if_specialdelivery" {
 			"visible"	"0"
 		}
 	}
@@ -172,7 +162,7 @@
 			"visible"	"0"
 		}
 	}	
-							
+
 	"RedScore"
 	{
 		"ControlName"	"CExLabel"
@@ -187,7 +177,7 @@
 		"textAlignment"	"west"	
 		"labelText"		"%redscore%"
 		"font"			"Cerbetica40"
-		"fgcolor"		"TanLight"		
+		"fgcolor"		"TanLight"
 		
 		"if_hybrid"
 		{
@@ -236,14 +226,13 @@
 			"visible"	"0"
 		}
 	}	
-															
+
 	"OutlineImage"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"OutlineImage"
 		"xpos"			"c-50"
-		"ypos"			"r127"	[$WIN32]
-		"ypos"			"r148"	[$X360]
+		"ypos"			"r127"
 		"zpos"			"9"
 		"wide"			"100"
 		"tall"			"50"
@@ -258,24 +247,6 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CarriedImage"
 		"xpos"			"9999"
-		"ypos"			"9999"	[$WIN32]
-		"zpos"			"10"
-		"wide"			"100"
-		"tall"			"100"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"../hud/objectives_flagpanel_carried_red"
-		"scaleImage"	"1"
-		
-		"if_hybrid"
-		{
-			"ypos"		"r142"
-		}
-		
-		"if_specialdelivery"
-		{
-			"visible"	"r142"
-		}
 	}		
 	
 	"PlayingTo"
@@ -311,7 +282,7 @@
 			"visible"	"0"
 		}
 	}	
-			
+
 	"PlayingToBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -342,7 +313,7 @@
 		}
 	}	
 		
-		"BlueFlag"
+	"BlueFlag"
 	{
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"BlueFlag"
@@ -353,6 +324,11 @@
 		"tall"			"90"
 		"visible"		"1"
 		"enabled"		"1"
+		
+		if_mvm
+		{
+			"ypos"		"r95"	[$WIN32]
+		}
 		
 		"if_hybrid"
 		{
@@ -382,7 +358,7 @@
 			"visible"	"0"
 		}
 	}
-			
+
 	"RedFlag"
 	{
 		"ControlName"	"CTFFlagStatus"
@@ -394,7 +370,7 @@
 		"tall"			"90"
 		"visible"		"1"
 		"enabled"		"1"
-				
+
 		"if_hybrid"
 		{
 			"visible"	"0"
@@ -421,7 +397,7 @@
 			"visible"	"0"
 		}
 	}	
-			
+
 	"CaptureFlag"
 	{
 		"ControlName"	"CTFArrowPanel"

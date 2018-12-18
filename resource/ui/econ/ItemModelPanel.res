@@ -1,6 +1,5 @@
 "Resource/UI/ItemModelPanel.res"
 {
-
 	"mouseoveritempanel"
 	{
 		"fieldName"				"mouseoveritempanel"
@@ -9,6 +8,8 @@
 		"text_xpos_collection"	"0"
 		"text_ypos"			"15"
 		"text_forcesize" "0"
+		"text_xpos"		"15"
+		"text_wide"		"270"
 		//"model_xpos_collection"	"77"
 		//"model_ypos_collection"	"20"
 		//"model_wide_collection"	"156"
@@ -33,7 +34,6 @@
 		"scaleImage"	"1"
 	}
 	
-	
 	"MainContentsContainer"
 	{
 		"ControlName"	"EditablePanel"
@@ -49,7 +49,6 @@
 		{
 			"ControlName"		"CEmbeddedItemModelPanel"
 			"fieldName"		"itemmodelpanel"
-		
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"		
@@ -60,13 +59,10 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"useparentbg"		"1"
-			
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
-
 			"fov"			"54"
 			"start_framed"		"1"
-
 			"disable_manipulation"	"1"
 
 			"model"
@@ -97,6 +93,7 @@
 			"fgcolor"		"235 226 202 255"
 			"centerwrap"	"1"
 		}
+
 		"attriblabel"
 		{
 			"ControlName"	"CExLabel"
@@ -136,8 +133,6 @@
 			"fgcolor"		"200 80 60 255"
 			"bgcolor_override"		"0 0 0 255"
 			"PaintBackgroundType"	"2"
-			"PaintBackgroundType"	"0"
-			"border"		"NoBorder"
 		}
 		
 		"paint_icon"
@@ -151,18 +146,17 @@
 			"tall"			"16"
 			"visible"		"0"
 			"enabled"		"1"
-
 		}
 
 		"quantitylabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"quantitylabel"
-			"font"			"Cerbetica12"
+			"font"			"Cerbetica8"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
-			"wide"			"18"
+			"wide"			"10"
 			"tall"			"10"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -172,19 +166,18 @@
 			"textAlignment"	"center"
 			"fgcolor"		"200 80 60 255"
 			"bgcolor_override"		"0 0 0 255"
-			"PaintBackgroundType"	"0"
-			"border"		"NoBorder"
+			"PaintBackgroundType"	"2"
 		}
 
 		"serieslabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"serieslabel"
-			"font"			"Cerbetica12"
+			"font"			"Cerbetica8"
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
-			"wide"			"18"
+			"wide"			"14"
 			"tall"			"10"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -194,8 +187,7 @@
 			"textAlignment"	"center"
 			"fgcolor"		"200 180 60 255"
 			"bgcolor_override"		"0 40 30 255"
-			"PaintBackgroundType"	"0"
-			"border"		"NoBorder"
+			"PaintBackgroundType"	"2"
 		}
 		
 		"matcheslabel"
@@ -206,7 +198,7 @@
 			"xpos"			"4"
 			"ypos"			"4"
 			"zpos"			"2"
-			"wide"			"24"
+			"wide"			"20"
 			"tall"			"10"
 			"autoResize"	"0"
 			"pinCorner"		"0"
@@ -214,7 +206,6 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"center"
-			"border"		"NoBorder"
 			"fgcolor"		"200 180 60 255"
 			"bgcolor_override"		"0 40 30 255"
 			"PaintBackgroundType"	"2"
@@ -229,13 +220,12 @@
 			"zpos"			"2"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"wide"			"20"
-			"border"		"NoBorder"
+			"wide"			"16"
 			"tall"			"16"
 			"visible"		"0"
 			"enabled"		"1"
 			"scaleImage"	"1"
-			}
+		}
 
 		"is_strange_icon"
 		{
@@ -252,6 +242,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 		}
+
 		"is_unusual_icon"
 		{
 			"ControlName"	"ImagePanel"
@@ -267,6 +258,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"
 		}
+
 		"is_loaner_icon"
 		{
 			"ControlName"	"ImagePanel"
@@ -297,9 +289,7 @@
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
 			"useparentbg"	"0"
-			
 			"enabled"		"1"
-			
 			"model_xpos"	"1"
 			"model_ypos"	"1"
 			"model_wide"	"16"
@@ -307,7 +297,6 @@
 			"text_ypos"		"60"
 			"text_center"	"1"
 			"model_only"	"1"
-			
 			"inset_eq_x"	"2"
 			"inset_eq_y"	"2"
 			

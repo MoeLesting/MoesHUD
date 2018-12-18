@@ -30,11 +30,14 @@
 			"model_xpos"	"2"
 			"model_wide"	"90"
 			"model_tall"	"50"
+			"model_center_x" "1"
 			"text_ypos"		"0"
 			"text_forcesize" "2"
 			"text_center"	"0"
 			"text_yoffset"	"2"
 			"inset_eq_y"	"55"
+			"deferred_description"	"1"
+			"deferred_icon"			"1"
 		}
 		"modelpanels_kv"
 		{
@@ -44,7 +47,7 @@
 			"wide"			"54"
 			"tall"			"42"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"Transparent"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
@@ -59,10 +62,12 @@
 			
 			"inset_eq_x"	"4"
 			"inset_eq_y"	"2"
+			"deferred_description"	"1"
 			
 			"itemmodelpanel"
 			{
 				"use_item_rendertarget" "0"
+				"inventory_image_type"	"1"
 				"allow_rot"				"0"
 			}
 			
@@ -84,7 +89,7 @@
 	
 	"CaratLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"CaratLabel"
 		"font"			"Cerbetica16"
 		"labelText"		">>"
@@ -139,19 +144,19 @@
 
 	"NameFilterTextEntry"
 	{
-		"ControlName"		"TextEntry"
+		"ControlName"	"TextEntry"
 		"fieldName"		"NameFilterTextEntry"
-		"xpos"		"c+205"
-		"ypos"		"30"
-		"zpos"		"2"
-		"wide"		"90"
-		"tall"		"19"
-		"autoResize"		"0"
+		"xpos"			"c+205"
+		"ypos"			"30"
+		"zpos"			"2"
+		"wide"			"90"
+		"tall"			"19"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"1"
-		"textHidden"		"0"
+		"tabPosition"	"1"
+		"textHidden"	"0"
 		"editable"		"1"
 		"unicode"		"1"
 		"fgcolor_override"	"TanLight"
@@ -193,7 +198,7 @@
 		
 	"ItemSlotLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"ItemSlotLabel"
 		"font"			"HudFontMediumBold"
 		"labelText"		"#PrimaryWeapon"
@@ -347,7 +352,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"&A"
-		"font"			"HudFontSmallBold"
+		"font"			"MenuArrows"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -401,7 +406,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"&D"
-		"font"			"HudFontSmallBold"
+		"font"			"MenuArrows"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -433,48 +438,31 @@
 		"visible"		"0"
 		"bgcolor_override"		"0 0 0 0"
 		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"0"
-		"paintborder"	"0"
-			"BackColor"
-    	{
-    		"ControlName"		"EditablePanel"
-    		"fieldName"			"BackColor"
-    		"xpos"				"0"
-    		"ypos"				"0"
-    		"zpos"				"-1"
-    		"wide"				"f0"
-    		"tall"	 			"f0"
-    		"visible"			"1"
-    		"enabled"			"1"
-			"pinCorner"			"0"
-			"autoResize"		"0"
-			"PaintBackgroundType""1"
-			"border"			"NoBorder"
-			"bgcolor_override"	"35 35 35 255"
-			
-			"attriblabel"
-			{
-				"font"			"ItemFontAttribLarge"
-				"xpos"			"0"
-				"ypos"			"30"
-				"zpos"			"101"
-				"wide"			"140"
-				"tall"			"60"
-				"autoResize"	"0"
-				"pinCorner"		"0"
-				"visible"		"1"
-				"enabled"		"1"
-				"labelText"		"%attriblist%"
-				"textAlignment"	"center"
-				"fgcolor"		"117 107 94 255"
-				"centerwrap"	"1"
-			}
-    	}
+		"PaintBackgroundType"	"2"
+		"paintborder"	"1"
 		
 		"text_ypos"			"20"
 		"text_center"		"1"
 		"model_hide"		"1"
 		"resize_to_text"	"1"
 		"padding_height"	"15"
-	}
+
+		"attriblabel"
+		{
+			"font"			"ItemFontAttribLarge"
+			"xpos"			"0"
+			"ypos"			"30"
+			"zpos"			"2"
+			"wide"			"140"
+			"tall"			"60"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		"%attriblist%"
+			"textAlignment"	"center"
+			"fgcolor"		"117 107 94 255"
+			"centerwrap"	"1"
+		}
+    }
 }

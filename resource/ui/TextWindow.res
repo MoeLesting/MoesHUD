@@ -2,18 +2,18 @@
 {
 	"info"
 	{
-		"ControlName"			"CTFTextWindow"
-		"fieldName"				"info"
-		"xpos"					"0"
-		"ypos"					"0"
-		"wide"					"f0"
-		"tall"					"480"
-		"autoResize"			"0"
-		"pinCorner"				"0"
-		"visible"				"1"
-		"enabled"				"1"
-		"tabPosition"			"0"
-		"settitlebarvisible"	"0"
+		"ControlName"	"CTFTextWindow"
+		"fieldName"		"info"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"480"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"settitlebarvisible" "0"
 	}
 	
 	"MainBG"
@@ -29,9 +29,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 100"
+		"fillcolor"		"0 0 0 200"
 	}
-	
 	
 	"TFMessageTitle"
 	{
@@ -52,8 +51,8 @@
 		"brighttext"	"0"
 		"font"			"Cerbetica24"
 		"fgcolor"		"TanLight"
-	}	
-
+	}
+	
 	"TextMessage"
 	{
 		"ControlName"	"TextEntry"
@@ -61,7 +60,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 	}
-
+	
 	"TFTextMessage"
 	{
 		"ControlName"	"CExRichText"
@@ -80,10 +79,10 @@
 		"textAlignment"	"northwest"
 		"fgcolor"		"TanLight"
 	}
-
+	
 	"HTMLMessage"
 	{
-		"ControlName"		"HTML"
+		"ControlName"	"HTML"
 		"fieldName"		"HTMLMessage"
 		"xpos"			"c-170"
 		"ypos"			"c-110"
@@ -94,13 +93,13 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"tabPosition"		"0"
+		"tabPosition"	"0"
 		"paintborder"	"0"
 	}
 	
 	"ok"
 	{
-		"ControlName"		"CExButton"
+		"ControlName"	"CExButton"
 		"fieldName"		"ok"
 		"xpos"			"c-180"
 		"ypos"			"c96"
@@ -134,27 +133,6 @@
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
 		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"0"		
-		"wide"			"f0"
-		"tall"			"480"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fov"			"20"
-		
-		"model"
-		{
-			"modelname"	"models/vgui/UI_welcome01_screen.mdl"
-			"skin"		"0"
-			"angles_x" "0"
-			"angles_y" "180"
-			"angles_z" "0"
-			"origin_x" "290"
-			"origin_y" "0"
-			"origin_z" "-39"
-		}
 	}
 	
 	"ShadedBar"
@@ -182,5 +160,5 @@
 		"fieldName"		"MessageTitle"
 		"visible"		"0"
 		"enabled"		"0"
-	}		
+	}
 }

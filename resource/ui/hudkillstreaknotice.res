@@ -5,7 +5,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Background"
 		"xpos"			"c-250"
-		"ypos"			"50"
+		"ypos"			"70"
 		"zpos"			"0"
 		"wide"			"500"
 		"tall"			"50"
@@ -13,22 +13,22 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"46 43 42 160"	
+		"bgcolor_override"		"0 0 0 220"
 	}
 	
 	"SplashLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SplashLabel"
-		"font"			"HudFontSmallestBold"
+		"font_override"	"Cerbetica11"
 		"labelText"		""
 		"textAlignment" "center"
 		"xpos"			"c-250"
-		"ypos"			"50"
+		"ypos"			"70"
 		"zpos"			"2"
 		"wide"			"500"
 		"tall"			"50"
 		"autoResize"	"0"
-		"fgcolor"		"tanlight"
+		"fgcolor"		"White"
 	}
 }

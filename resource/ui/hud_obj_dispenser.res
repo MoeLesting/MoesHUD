@@ -19,16 +19,10 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"Background"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"-1"
-		"wide"			"120"
-		"tall"			"31"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
-		"icon"			"obj_status_background_disabled"
-		"iconColor"		"255 255 255 255"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	
 	"Icon_Dispenser"
@@ -234,7 +228,7 @@
 				"xpos"			"0"
 				"ypos"			"16"
 				"wide"			"50"
-				"tall"			"8"				
+				"tall"			"8"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
@@ -244,7 +238,7 @@
 				"brighttext"	"0"
 			}
 		}
-	
+		
 		"RunningPanel"
 		{
 			"ControlName"	"EditablePanel"
@@ -255,7 +249,7 @@
 			"tall"			"31"
 			"visible"		"0"
 			
-			"AmmoIcon"	
+			"AmmoIcon"
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"AmmoIcon"
@@ -270,7 +264,7 @@
 				"image"			"../hud/hud_obj_status_ammo_64"
 				"drawcolor"		"ProgressOffWhite"
 			}
-
+			
 			"Ammo"
 			{	
 				"ControlName"	"ContinuousProgressBar"
@@ -287,7 +281,7 @@
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"
-			}	
+			}
 			
 			"UpgradeIcon"
 			{

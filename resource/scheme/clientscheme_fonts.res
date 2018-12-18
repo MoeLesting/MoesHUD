@@ -9,24 +9,22 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
 			"2"
 			{
 				"name"		"Cerbetica_bold"
 				"tall"		"72"
-				"antialias" 	"1"
+				"antialias" "1"
 			}
-			
-			
 		}
 		"DefaultUnderline"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"weight"	"500"
 				"underline" "1"
@@ -34,106 +32,104 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"11"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
+				"range" 	"0x0000 0x00FF"
+				"weight"	"800"
 			}
 		}
 		"DefaultSmall"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"480 599"
+				"yres"		"480 599"
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"600 767"
+				"yres"		"600 767"
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"768 1023"
+				"yres"		"768 1023"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"1024 1199"
+				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
-				"yres"	"1200 6000"
+				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"0"
+				"range" 	"0x0000 0x00FF"
+				"weight"	"0"
 			}
 		}
-
-
 		"DefaultVerySmall"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"480 599"
+				"yres"		"480 599"
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"600 767"
+				"yres"		"600 767"
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"768 1023"
+				"yres"		"768 1023"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1024 1199"
+				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"16"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
+				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
 		}
@@ -141,7 +137,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -149,7 +145,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"21"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -157,7 +153,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -166,7 +162,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"28"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -175,56 +171,58 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"30"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
-				"yres"	"1200 6000"
+				"yres"		"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"20"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"900"
+				"range" 	"0x0000 0x00FF"
+				"weight"	"900"
 			}
 			"7"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"20"
-				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
+				"range" 	"0x0000 0x00FF"
+				"weight"	"800"
 			}
 		}
+		
 		CenterPrintText
 		{
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "18"
 				"additive"	 "0"
 				"antialias"	 "1"
 			}
 		}
-
+		
 		"PlayerPanelPlayerName"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		HudHintText
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -234,7 +232,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"32"
 				"tall_lodef"	"80"
 				"additive"	"0"
@@ -242,7 +240,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"44"
 				"tall_hidef"	"120"
 				"additive"	"0"
@@ -250,21 +248,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" "1"
@@ -274,29 +272,27 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"64"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-
 		"HudFontBiggerBold"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-
 		"HudFontBig"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"44"
 				"additive"	"0"
 				"antialias" "1"
@@ -306,27 +302,27 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
 			}
-		}	
+		}
 		"HudFontMediumBigBold"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
 			}
-		}		
+		}
 		"HudFontMedium"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -336,7 +332,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -346,7 +342,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -356,7 +352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -366,7 +362,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -376,7 +372,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -386,7 +382,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -396,7 +392,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -406,7 +402,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -416,7 +412,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -426,19 +422,17 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
-
 		"HudFontSmallestShadow"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -448,37 +442,40 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		"PerformanceModeSmall"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		"StorePromotionsTitle"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		"FontCartPrice"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -488,7 +485,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -498,7 +495,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -508,7 +505,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -518,22 +515,24 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		"TextTooltipFont"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		GameUIButtons
 		{
 			"1"	//[$X360]
@@ -570,39 +569,42 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		"HudClassHealth"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		"SpectatorKeyHints"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		"ClockSubText"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -613,7 +615,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"8"
 				"tall_hidef"	"9"
 				"tall_lodef"	"10"
@@ -626,7 +628,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"8"
 				"tall_hidef"	"7"
 				"weight"	"500"
@@ -634,11 +636,12 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		"HudSelectionText"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -648,7 +651,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -659,7 +662,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -668,7 +671,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -677,7 +680,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -685,11 +688,12 @@ Scheme
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
+		
 		DebugOverlay
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"400"
 				"outline"	"1"
@@ -702,7 +706,8 @@ Scheme
 				"weight"	"200"
 				"outline"	"1"
 			}
-		}		
+		}
+		
 		TFTypeDeath
 		{
 			"1"
@@ -726,6 +731,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		
 		"BetaFont"
 		{
 			"1"
@@ -738,7 +744,7 @@ Scheme
 				"additive"	"0"
 			}
 		}
-
+		
 		HudNumbers
 		{
 			"1"
@@ -758,11 +764,12 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		"CloseCaption_Normal"
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -771,7 +778,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"32"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -781,7 +788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
@@ -790,7 +797,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"32"
 				"italic"	"1"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -800,11 +807,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"32"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 			}
 		}
+		
 		// this is the symbol font
 		"Marlett"
 		{
@@ -817,7 +825,6 @@ Scheme
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
-		
 		"MarlettSmall"
 		{
 			"1"
@@ -829,11 +836,12 @@ Scheme
 				"range"		"0x0000 0x007F"	//	Basic Latin
 			}
 		}
+		
 		"MenuMainTitle"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -843,7 +851,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -854,7 +862,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -873,13 +881,13 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}		
+		}
 		
 		"ChalkboardTitle"
 		{
 			"1"
 			{
-				"name"			"Cerbetica_edited"
+				"name"			"FuturaStd-Medium"
 				"tall"			"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -889,7 +897,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_edited"
+				"name"			"FuturaStd-Medium"
 				"tall"			"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -899,7 +907,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -909,18 +917,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Cerbetica_edited"
+				"name"			"FuturaStd-Medium"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias" 	"1"
-
 			}
 		}
+		
 		"ScoreboardVerySmall"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"weight"	"400"
 				"additive"	"0"
@@ -931,7 +939,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -942,7 +950,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -954,7 +962,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -966,7 +974,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -980,7 +988,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -992,7 +1000,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1004,7 +1012,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1014,7 +1022,6 @@ Scheme
 				"additive"	"0"
 			}
 		}
-
 		"ScoreboardTeamScoreNew"
  		{
 			"1"
@@ -1031,7 +1038,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1041,7 +1048,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1051,7 +1058,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1060,7 +1067,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1069,7 +1076,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1077,12 +1084,12 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
+		
 		"MatchSummaryTeamScores"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"36"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1094,31 +1101,30 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-
 		"MatchSummaryWinner"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"20"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}
-		}		
+		}
 		
 		"CompMatchStartTeamNames"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1130,7 +1136,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1141,19 +1147,19 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-
+		
 		"Link"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1203,11 +1209,12 @@ Scheme
 				"dropshadow"	"0"
 			}
 		}
+		
 		"ChatFont"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1289,7 +1296,7 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
-
+		
 		MenuSmallestFont
 		{
 			"1"
@@ -1301,13 +1308,12 @@ Scheme
 				"weight"		"300"
 				"antialias"		"1"
 			}
-		}	
-		
+		}
 		MenuSmallFont
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -1315,12 +1321,13 @@ Scheme
 				"weight_lodef"	"600"
 				"antialias"		"1"
 			}
-		}			
+		}
+		
 		CapPlayerFont
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1332,7 +1339,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1340,7 +1347,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
+		
 		TFFontSmall
 		{
 			"1"
@@ -1353,7 +1360,7 @@ Scheme
 				"additive"	"1"
 				"antialias" 	"1"
 			}
-		}		
+		}
 		TFFontMedium
 		{
 			"1"
@@ -1366,7 +1373,7 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}		
+		}
 		
 		InstructionalText
 		{
@@ -1379,13 +1386,13 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}		
+		}
 		
 		MatchmakingDialogTitle
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -1395,7 +1402,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -1405,7 +1412,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -1415,7 +1422,7 @@ Scheme
 		{
 			"1"			// brower item hostname
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"22"
 				"weight"	"900"
 			}
@@ -1424,7 +1431,7 @@ Scheme
 		{
 			"1"			// browser item players and map name
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"weight"	"900"
 			}
@@ -1433,7 +1440,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -1443,7 +1450,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -1469,6 +1476,7 @@ Scheme
 				"weight"	"900"
 			}
 		}
+		
 		RankingDialogHeaders
 		{
 			"1"
@@ -1483,7 +1491,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -1493,50 +1501,54 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}		
+		}
+		
 		"IntroMenuCaption"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" 	"1"
 			}
-		}			
+		}
+		
 		"AchievementNotification"
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"900"
 				"antialias" "1"
 			}
 		}
+		
 		"ImportToolSmallest"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
 			}
 		}
+		
 		"SpectatorVerySmall"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1544,6 +1556,7 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
 		// Used by scoreboard and spectator UI for names which don't map in the normal fashion
 		"DefaultVerySmallFallBack"
 		{
@@ -1581,7 +1594,7 @@ Scheme
 		"1"
 			{
 				
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -1591,17 +1604,17 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "13"
 				"additive"	 "0"
 				"antialias"	 "1"
 			}
-		}	
+		}
 		"ItemFontNameLarge"
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -1611,7 +1624,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -1622,7 +1635,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "10"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -1632,7 +1645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"11"
 				"antialias" "1"
 				"weight"	"500"
@@ -1642,7 +1655,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "11"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -1652,29 +1665,29 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
-			}	
+			}
 		}
-		
 		"ItemFontAttribLarger"
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
 			}
 		}
+		
 		"AchievementTracker_Name"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -1684,7 +1697,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"9"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -1700,6 +1713,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		
 		"QuestObjectiveTracker_Desc"
 		{
 			"1"
@@ -1734,16 +1748,6 @@ Scheme
 				"custom"	"1"
 			}
 		}
-		"ItemTrackerScore_InGame"
-		{
-			"1"
-			{
-				"name"		"Verdana"
-				"tall"		"7"
-				"weight"	"0"
-				"antialias" 	"1"
-			}
-		}
 		"QuestFlavorText"
 		{
 			"1"
@@ -1774,7 +1778,6 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-
 		"QuestObjectiveText"
 		{
 			"1"
@@ -1805,7 +1808,6 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		
 		"QuestLargeText"
 		{
 			"1"
@@ -1817,7 +1819,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
 		"QuestStickyText"
 		{
 			"1"
@@ -1829,12 +1830,11 @@ Scheme
 				"weight"	"500"
 			}
 		}
-
-			"QuestInstructionText_Merasmus"
+		"QuestInstructionText_Merasmus"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -1843,7 +1843,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1852,7 +1852,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -1860,12 +1860,11 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-
 		"QuestFlavorText_Merasmus"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -1875,7 +1874,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1885,7 +1884,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -1894,12 +1893,11 @@ Scheme
 				"italic"	"1"
 			}
 		}
-
 		"QuestObjectiveText_Merasmus"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -1908,7 +1906,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -1917,7 +1915,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -1925,28 +1923,37 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-
 		"QuestMediumText_Merasmus"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
 		"QuestLargeText_Merasmus"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
+			}
+		}
+		
+		"ItemTrackerScore_InGame"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"7"
+				"weight"	"0"
+				"antialias" 	"1"
 			}
 		}
 		
@@ -1995,7 +2002,6 @@ Scheme
 				"additive"	"0"
 			}
 		}
-
 		"TradeUp_Quote"
 		{
 			"1"
@@ -2061,7 +2067,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"12"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2124,7 +2130,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"11"
 				"additive"	"1"
 				"antialias" "1"
@@ -2134,7 +2140,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"additive"	"1"
 				"antialias" "1"
@@ -2144,7 +2150,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
@@ -2154,7 +2160,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"24"
 				"additive"	"1"
 				"antialias" "1"
@@ -2164,13 +2170,12 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
 			}
 		}
-		
 		//
 		//////////////////// ECON FONTS //////////////////////////////
 		//
@@ -2178,7 +2183,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -2189,18 +2194,19 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Cerbetica Bold"
+				"name"		"FuturaStd-Medium"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+		
 		ControllerHintText
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -2208,12 +2214,12 @@ Scheme
 				"additive"	"0"
 			}
 		}
-
+		
 		"MMenuPlayListDesc"
 		{
 			"1"
 			{
-				"name"		"Cerbetica_edited"
+				"name"		"FuturaStd-Medium"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -2221,144 +2227,11 @@ Scheme
 			}
 		}
 
-		// rays fonts and stuff
-
-		// tournament hud edit
-		"Blocks48"
-		{
-			"1"
-			{
-				"name"		"Blocks"
-				"tall"		"48"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
-		
-				
-		"Blocks24"
-		{
-			"1"
-			{
-				"name"		"Blocks"
-				"tall"		"24"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
-		
-		"Symbol16"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"16"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		
-		"Symbol24"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"24"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		
-		"SymbolOutline24"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"24"
-			"weight"		"0"
-			"antialias"		"1"
-			"outline"		"1"
-			}
-		}
-		
-		"Symbol32"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"32"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		
-		"Symbol40"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"40"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		"KonrWings16"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"16"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		"KonrWings24"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"24"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		"KonrWingsOutline24"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"24"
-			"weight"		"0"
-			"antialias"		"1"
-			"outline"		"1"
-			}
-		}
-		"KonrWings32"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"32"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		"KonrWings40"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"40"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		
 		"Cerbetica7"
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "7"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2368,7 +2241,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "8"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2378,7 +2251,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "9"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2388,7 +2261,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "10"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2398,7 +2271,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "11"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2408,7 +2281,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2418,7 +2291,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2428,7 +2301,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2438,7 +2311,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "20"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2448,18 +2321,17 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "22"
 				"additive"	 "0"
 				"antialias"	 "1"
 			}
 		}
-
 		"Cerbetica24"
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2469,7 +2341,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2480,7 +2352,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "26"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2490,7 +2362,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "26"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2500,7 +2372,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2510,7 +2382,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "36"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2520,7 +2392,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "40"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2530,7 +2402,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "44"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2540,7 +2412,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "48"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2550,7 +2422,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "52"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2560,7 +2432,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "54"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2570,7 +2442,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "55"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2580,7 +2452,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "56"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2590,7 +2462,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "60"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2600,7 +2472,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica_edited"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "72"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2610,7 +2482,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2620,7 +2492,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "13"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2630,7 +2502,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2640,7 +2512,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "15"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2650,7 +2522,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2660,7 +2532,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "17"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2670,7 +2542,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "18"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2680,7 +2552,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "20"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2690,7 +2562,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2700,7 +2572,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2711,7 +2583,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2722,7 +2594,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2733,7 +2605,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "28"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2743,7 +2615,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2753,7 +2625,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "36"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2763,7 +2635,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "42"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2773,7 +2645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "44"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2783,7 +2655,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "46"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2793,7 +2665,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "48"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2803,7 +2675,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "56"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2813,17 +2685,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "56"
 				"additive"	 "0"
 				"antialias"	 "1"
+				"outline"	 "1"
 			}
 		}
 		"CerbeticaBold64"
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "64"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2833,7 +2706,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "72"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2843,22 +2716,13 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "Cerbetica Bold"
+				"name"		 "FuturaStd-Medium"
 				"tall" 		 "124"
 				"additive"	 "0"
 				"antialias"	 "1"
 			}
 		}
-		"Multimedia16"
-		{
-			"1"
-			{
-				"name"		 "Heydings Icons"
-				"tall" 		 "16"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
+		
 		"TF2ComboBox"
 		{
 			"1"
@@ -2883,7 +2747,6 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
 		"QuestMap_Small"
 		{
 			"1"
@@ -2895,7 +2758,6 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
 		"QuestMap_Medium"
 		{
 			"1"
@@ -2907,7 +2769,6 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
 		"QuestMap_Large"
 		{
 			"1"
@@ -2919,7 +2780,6 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-
 		"QuestMap_Huge"
 		{
 			"1"
@@ -2931,12 +2791,68 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"MenuArrows"
+		{
+			"1"
+			{
+				"name"			"FlawHUDIcons"
+				"tall"			"15"
+				"weight"		"400"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
 	}
 	
-	//////////////////////// BITMAP FONT FILES /////////////////////////////
 	BitmapFontFiles
 	{
 		// UI buttons, custom font, (256x64)
 		"Buttons"		"materials/vgui/fonts/buttons_32.vbf"
+	}
+	
+	CustomFontFiles
+	{
+		"1" "resource/tf.ttf"
+		"2" "resource/tfd.ttf"
+		"3"
+		{
+			"font" "resource/TF2.ttf"
+			"name" "TF2"
+		}
+		"4" 
+		{
+			"font" "resource/TF2Secondary.ttf"
+			"name" "TF2 Secondary"
+		}
+		"5" 
+		{
+			"font" "resource/TF2Professor.ttf"
+			"name" "TF2 Professor"
+		}	
+		"6" 
+		{
+			"font" "resource/TF2Build.ttf"
+			"name" "TF2 Build"
+		}
+		"7"
+		{
+			"font" "resource/fonts/FuturaStd-Medium.otf"
+			"name" "FuturaStd-Medium"
+		}
+		"8"
+		{
+			"font" "resource/fonts/FuturaStd-Medium.otf"
+			"name" "FuturaStd-Medium"
+		}
+		"9"
+		{
+			"font" "resource/fonts/FuturaStd-Medium.otf"
+			"name" "FuturaStd-Medium"
+		}
+		"10"
+		{
+			"font"	"resource/fonts/heydings_icons.ttf"
+			"name"	"FlawHUDIcons"
+		}
 	}
 }

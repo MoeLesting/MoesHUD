@@ -146,7 +146,7 @@
 		"text_center"	"1"
 		"text_forcesize"	"3"
 		"model_only"		"1"
-			
+
 		"attriblabel"
 		{
 			"font"			"ItemFontAttribLarge"
@@ -156,6 +156,7 @@
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}
@@ -197,7 +198,7 @@
 		"brighttext"	"0"
 	}
 	
-		"NumberLabel1BG"
+	"NumberLabel1BG"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel1BG"
@@ -249,6 +250,7 @@
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}
@@ -289,8 +291,8 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
-	
-			"NumberLabel2BG"
+
+	"NumberLabel2BG"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel2BG"
@@ -342,6 +344,7 @@
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}
@@ -477,7 +480,7 @@
 		"brighttext"	"0"
 	}
 	
-		"NumberLabel4BG"
+	"NumberLabel4BG"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel4BG"
@@ -529,6 +532,7 @@
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}
@@ -622,6 +626,7 @@
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}
@@ -641,8 +646,6 @@
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 	}
-	
-
 	
 	"NumberLabel6"
 	{	
@@ -664,8 +667,8 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
-	
-			"NumberLabel6BG"
+
+	"NumberLabel6BG"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel6BG"
@@ -717,6 +720,7 @@
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}
@@ -757,8 +761,8 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
-	
-				"NumberLabel7BG"
+
+	"NumberLabel7BG"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel7BG"
@@ -810,6 +814,7 @@
 		"itemmodelpanel"
 		{
 			"use_item_rendertarget" "0"
+			"inventory_image_type"	"1"
 			"allow_rot"				"0"
 		}
 	}
@@ -851,7 +856,7 @@
 		"brighttext"	"0"
 	}
 	
-		"NumberLabel8BG"
+	"NumberLabel8BG"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel8BG"

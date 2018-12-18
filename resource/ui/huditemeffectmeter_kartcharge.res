@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-75"	
-		"ypos"			"c94"
+		"xpos"			"c-75"
+		"ypos"			"c156"
 		"ypos_minmode"	"c23"
 		"wide"			"500"
 		"tall"			"500"
@@ -27,10 +27,10 @@
 		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
-		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
+		"teambg_2"			"../hud/misc_ammo_area_horiz2_red"
 		"teambg_2_lodef"	"../hud/misc_ammo_area_red_lodef"
-		"teambg_3"		"../hud/misc_ammo_area_horiz2_blue"
-		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
+		"teambg_3"			"../hud/misc_ammo_area_horiz2_blue"
+		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"
 	}
 	
 	"ItemEffectMeterLabel"
@@ -78,7 +78,7 @@
 		"textAlignment"			"Center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-	}	
+	}
 	
 	"ItemEffectMeterCount"
 	{
@@ -101,16 +101,17 @@
 		"font"					"CerbeticaBold28"
 		"font_minmode"			"CerbeticaBold20"
 	}
-	"ItemEffectMeterCountBG"
+	
+	"ItemEffectMeterCountShadow"
 	{
 		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterCount"
+		"fieldName"				"ItemEffectMeterCountShadow"
 		"xpos"					"2"
 		"ypos"					"2"
 		"ypos_minmode"			"6"
 		"zpos"					"2"
 		"wide"					"150"
-		"tall"					"30"	
+		"tall"					"30"
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"

@@ -57,27 +57,24 @@
 		"zpos"			"5"
 		"wide"			"115"
 		"tall"			"0"
-
+		"image"			"../hud/comp_round_timer"
+		"scaleimage"	"1"
 		"backgroundtype"		"2"
 		"proportionaltoparent"	"1"
-			
-		"image"					"../hud/comp_round_timer"
-		"scaleimage"			"1"
 	}
 	
 	"BlueScoreBG"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"BlueScoreBG"
 		"xpos"			"c-36"
 		"ypos"			"0"
 		"wide"			"36"
 		"tall"			"12"
-		"proportionaltoparent"	"1"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"70 130 180 153"
-
+		"proportionaltoparent"	"1"
 	}
 	
 	"RedScoreBG"
@@ -88,25 +85,23 @@
 		"ypos"			"0"
 		"wide"			"36"
 		"tall"			"12"
-		"proportionaltoparent"	"1"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"205 50 50 153"
+		"proportionaltoparent"	"1"
 	}
 	
 	"TimerBG"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"TimerBG"
 		"xpos"			"c-36"
 		"ypos"			"12"
 		"wide"			"72"
 		"tall"			"16"
-		"proportionaltoparent"	"1"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"0 0 0 100"
-
+		"proportionaltoparent"	"1"
 	}
-	
 }

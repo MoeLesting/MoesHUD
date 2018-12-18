@@ -7,28 +7,28 @@ Scheme
 	
 		//rayshud colors
 	
-		"Ammo In Clip"							"48 255 48 255"
-		"Ammo In Reserve"						"72 255 255 255"
-		"Ammo In Clip Low"						"255 42 130 255"
-		"Ammo In Reserve Low"					"255 128 28 255"
+		"Ammo In Clip"							"255 255 255 255"
+		"Ammo In Reserve"						"41 98 255 255"
+		"Ammo In Clip Low"						"255 255 255 255"
+		"Ammo In Reserve Low"					"41 98 255 255"
 		
 		//refers to watching stvs/killcam shots
-		"Spec Health Normal"					"235 226 202 255"
+		"Spec Health Normal"					"255 255 255 255"
 		"Spec Health Buff"						"48 255 48 255"			
 		"Spec Health Hurt"						"255 153 0 255"
 		
 		//alternate colors for flashing values
-		"Alternate Spec Health Normal"						"235 226 202 255"
+		"Alternate Spec Health Normal"						"255 255 255 255"
 		"Alternate Spec Health Buff"						"48 255 48 255"			
 		"Alternate Spec Health Hurt"						"255 153 0 255"
 		
 		//refers to player health/targetids
-		"Health Normal"							"235 226 202 255"
-		"Health Buff"							"48 255 48 255"
-		"Health Hurt"							"255 153 0 255"
+		"Health Normal"							"255 255 255 255"
+		"Health Buff"							"195 255 195 255"
+		"Health Hurt"							"255 205 131 255"
 		
 		//alternate colors for flashing values
-		"Alternate Health Normal"						"235 226 202 255"
+		"Alternate Health Normal"						"255 255 255 255"
 		"Alternate Health Buff"						"48 255 48 255"			
 		"Alternate Health Hurt"						"255 153 0 255"
 		
@@ -41,28 +41,29 @@ Scheme
 		"Flashing Uber Color2"					"255 69 0 255"
 		//"Ubercharge Amount"						"48 255 48 255" // disabled temporarily; currently controlled by ammo in clip color
 	
-		"Heal Numbers"							"48 255 48 255"
-		"Damage Numbers"						"72 255 255 255"
+		"Heal Numbers"							"41 98 255 255"
+		"Damage Numbers"						"41 98 255 255"
 		
 		//'Last DamageHeal Info' refers to the number that appears above hp
-		"Last DamageHeal Info"					"72 255 255 255"
+		"Last DamageHeal Info"					"41 98 255 255"
 		
 		//Menu/Color scheme colors
 		"TransparentPanelBG"		"25 25 25 128"
-		"Base Color"				"15 255 255 255"
-		"Button Color"				"72 255 255 255"	
+		"Base Color"				"41 98 255 255"
+		"Base Dark"					"28 51 114 255"
+		"Button Color"				"41 98 255 255"	
 		
-		"Inactive Tab"				"15 100 100 255"	
+		"Inactive Tab"				"255 64 14 255"	
 		
-		"StatBar1"						"15 255 255 128"
-		"StatBar2"						"15 225 225 128"
-		"StatBar3"						"15 195 195 128"
-		"StatBar4"						"15 165 165 128"
-		"StatBar5"						"15 135 135 128"
-		"StatBar6"						"15 105 105 128"
-		"StatBar7"						"15 85 85 128"
-		"StatBar8"						"15 65 65 128"
-		"StatBar9"						"15 45 45 128"
+		"StatBar1"						"255 128 28 128"
+		"StatBar2"						"255 128 28 128"
+		"StatBar3"						"255 128 28 128"
+		"StatBar4"						"255 128 28 128"
+		"StatBar5"						"255 128 28 128"
+		"StatBar6"						"255 128 28 128"
+		"StatBar7"						"255 128 28 128"
+		"StatBar8"						"255 128 28 128"
+		"StatBar9"						"255 128 28 128"
 		
 		//item backdrop color, refers to background color when mousing over items
 		"ItemPanelBG"					"50 50 50 255"
@@ -96,7 +97,6 @@ Scheme
 		"LightOrange"		"188 112 0 128"
 		"GoalOrange"		"255 133 0"
 		"TFOrange"			"145 73 59 255"
-		"Purple"			"137 69 99 255"
 		
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
@@ -104,19 +104,6 @@ Scheme
 		"HalloweenThemeColor2015_Dark"	"108 49 21 255"
 		"QuestStandardHighlight"	"0 255 0 255"
 		"QuestBonusHighlight"		"150 160 255 255"
-		"QuestUncommitted"				"183 147 100 255"
-
-		"QuestMap_Bonus"				"222 217 166 255"
-		"QuestMap_ActiveOrange"			"212 127 25 255"
-		"QuestMap_InactiveGrey"			"100 100 100 255"
-		"QuestMap_BGImages"				"56 58 60 255"
-
-		"PartyMember1"					"124 173 255 255"
-		"PartyMember2"					"99  232 167 255"
-		"PartyMember3"					"229 255 121 255"
-		"PartyMember4"					"232 184 99  255"
-		"PartyMember5"					"255 118 108 255"
-		"PartyMember6"					"255 133 255 255"
 		
 		"White"				"235 235 235 255"
 		"Red"				"192 28 0 140"
@@ -140,7 +127,7 @@ Scheme
 		"HUDRedTeamSolid"	"180 92 77 255"
 		"HUDDeathWarning"	"255 0 0 255"
 		"HudWhite"			"255 255 255 255"
-		"HudOffWhite"		"200 187 161 255"
+		"HudOffWhite"		"255 255 255 255"
 		"HudBlack"			"65 65 65 255"
 		"ProgressBarBlue"	"91 122 142 255"
 		
@@ -170,7 +157,7 @@ Scheme
 		"HudTrainingHint"			"212 160 23 255"
 		
 		"TanDark"				"117 107 94 255"
-		"TanLight"				"235 226 202 255"
+		"TanLight"				"255 255 255 255"
 		"TanDarker"				"46 43 42 255"
 		
 		"StoreDarkTan"			"131 121 104 255"
@@ -281,5 +268,22 @@ Scheme
 		"UpgradeSelectedBg"		"249 138 83 255"
 		"UpgradeDisabledFg"		"64 59 52 255"
 		"UpgradeDisabledBg"		"79 77 68 255"
+		
+		
+		
+		
+		"QuestUncommitted"	"183 147 100 255"
+
+		"QuestMap_Bonus"	"222 217 166 255"
+		"QuestMap_ActiveOrange"	"212 127 25 255"
+		"QuestMap_InactiveGrey"	"100 100 100 255"
+		"QuestMap_BGImages"	"56 58 60 255"
+
+		"PartyMember1"	"124 173 255 255"
+		"PartyMember2"	"99  232 167 255"
+		"PartyMember3"	"229 255 121 255"
+		"PartyMember4"	"232 184 99  255"
+		"PartyMember5"	"255 118 108 255"
+		"PartyMember6"	"255 133 255 255"
 	}
 }

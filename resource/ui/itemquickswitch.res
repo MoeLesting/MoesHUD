@@ -14,15 +14,13 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"25 25 25 255"
+		"bgcolor_override"		"25 25 25 255"
+		"itempanel_xpos"		"0"
+		"itempanel_ydelta"		"0"
+		"border"				"NoBorder"
 		
-		"itempanel_xpos"	"0"
-		"itempanel_ydelta"	"0"
-		"border"			"NoBorder"
-		
-		"itemskv"	
+		"itemskv"
 		{
 			"wide"			"220"
 			"tall"			"40"
@@ -30,24 +28,21 @@
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
 			"text_forcesize" "2"
-			
 			"model_xpos"	"25"
 			"model_ypos"	"3"
-			"model_wide"	"58"		
+			"model_wide"	"58"
 			"model_tall"	"34"
-			
 			"text_center"	"1"
 			"text_xpos"		"60"
 			"text_wide"		"190"
 			"name_only"		"1"
-			
 			"noitem_textcolor"		"117 107 94 255"
 		}
 	}
 	
 	"CaratLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"CaratLabel"
 		"font"			"CerbeticaBold12"
 		"labelText"		">>"
@@ -63,6 +58,7 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 128 255 255"
 	}
+
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -83,7 +79,7 @@
 
 	"ItemSlotLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"ItemSlotLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#PrimaryWeapon"

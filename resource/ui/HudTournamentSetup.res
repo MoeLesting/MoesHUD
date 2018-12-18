@@ -9,23 +9,22 @@
 		"zpos"			"-1"
 		"wide"			"180"
 		"tall"			"65"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 100"
-
-
-		"src_corner_height"	"20"				// pixels inside the image
-		"src_corner_width"	"20"
+		"fillcolor"		"0 0 0 205"
 		
-		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"src_corner_height"		"20"			// pixels inside the image
+		"src_corner_width"		"20"
+		
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"	
 	}
 
 	"TournamentSetupLabel"
 	{	
-		"ControlName"		"Label"
+		"ControlName"	"Label"
 		"fieldName"		"TournamentLabel"
 		"font"			"Cerbetica16"
 		"xpos"			"0"
@@ -33,18 +32,18 @@
 		"zpos"			"1"
 		"wide"			"180"
 		"tall"			"35"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
-		"textAlignment"		"center"
+		"textAlignment"	"center"
 	}
 
 	"TournamentTeamNameLabel"
 	{	
-		"ControlName"		"Label"
+		"ControlName"	"Label"
 		"fieldName"		"TournamentTeamNameLabel"
 		"font"			"Cerbetica12"
 		"xpos"			"87"
@@ -52,13 +51,13 @@
 		"zpos"			"1"
 		"wide"			"74"
 		"tall"			"15"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"wrap"			"0"
 		"labelText"		"#Tournament_TeamNamePanel"
-		"textAlignment"		"center"
+		"textAlignment"	"center"
 	}
 
 	"TournamentNameEdit"
@@ -89,29 +88,29 @@
 
 	"HudTournamentNameBG"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"HudTournamentNameBG"
-		"xpos"		"30"
-		"ypos"		"28"
-		"wide"		"0"
-		"tall"		"0"
-		"zpos"		"0"
+		"xpos"			"30"
+		"ypos"			"28"
+		"wide"			"0"
+		"tall"			"0"
+		"zpos"			"0"
 		"autoResize"	"0"
-		"pinCorner"	"0"
-		"visible"	"0"
-		"enabled"	"1"
-		"fillcolor"	"255 0 0 255"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"
+		"fillcolor"		"255 0 0 255"
 	}
 
 	"TournamentNotReadyButton"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"TournamentNotReadyButton"
-		"xpos"		"12"
-		"ypos"		"46"
-		"wide"		"70"
-		"tall"		"14"
-		"zpos"		"0"
+		"xpos"			"12"
+		"ypos"			"46"
+		"wide"			"70"
+		"tall"			"14"
+		"zpos"			"0"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -129,8 +128,8 @@
 		"border_armed"		""
 		"paintbackground"	"0"
 			
-		"defaultFgColor_override" "TanLight"
-		"armedFgColor_override" "Button Color"
+		"defaultFgColor_override"	"TanLight"
+		"armedFgColor_override"		"Button Color"
 		"depressedFgColor_override" "Button Color"
 	}
 
@@ -138,11 +137,11 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"TournamentReadyButton"
-		"xpos"		"96"
-		"ypos"		"46"
-		"wide"		"70"
-		"tall"		"14"
-		"zpos"		"0"
+		"xpos"			"96"
+		"ypos"			"46"
+		"wide"			"70"
+		"tall"			"14"
+		"zpos"			"0"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -161,8 +160,8 @@
 		"border_armed"		""
 		"paintbackground"	"0"
 			
-		"defaultFgColor_override" "TanLight"
-		"armedFgColor_override" "Button Color"
+		"defaultFgColor_override"	"TanLight"
+		"armedFgColor_override"		"Button Color"
 		"depressedFgColor_override" "Button Color"
 	}
 }

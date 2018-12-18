@@ -11,47 +11,46 @@
 		"tall"				"67"
 		"visible"			"1"
 		"enabled"			"1"
-		
 		"verbose"			"1"
 	}
 	
 	"ScoreboardBackground"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"ScoreboardBackground"
-		"xpos"			"c-270"
-		"ypos"			"244"
-		"zpos"			"-1"
-		"wide"			"540"
-		"tall"			"500"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"0 0 0 100"
+		"fieldName"			"ScoreboardBackground"
+		"xpos"				"c-270"
+		"ypos"				"244"
+		"zpos"				"-1"
+		"wide"				"540"
+		"tall"				"500"
+		"pinCorner"			"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"fillcolor"			"0 0 0 200"
 	}
 	"PopFileLabel"
 	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"PopFileLabel"
-		"font"			"Cerbetica24"
-		"labelText"		"%popfile%"
-		"textAlignment"	"center"
-		"xpos"			"c-270"
-		"ypos"			"c-30"
-		"wide"			"270"
-		"tall"			"30"
-		"fgcolor"		"tanlight"
+		"ControlName"		"CExLabel"
+		"fieldName"			"PopFileLabel"
+		"font"				"Cerbetica24"
+		"labelText"			"%popfile%"
+		"textAlignment"		"center"
+		"xpos"				"c-270"
+		"ypos"				"c-30"
+		"wide"				"270"
+		"tall"				"30"
+		"fgcolor"			"tanlight"
 	}
 
 	"DifficultyContainer"
 	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"DifficultyContainer"
-		"xpos"			"c0"
-		"ypos"			"c-30"
-		"wide"			"270"
-		"tall"			"30"
-		"visible"		"1"
+		"ControlName"		"EditablePanel"
+		"fieldName"			"DifficultyContainer"
+		"xpos"				"c0"
+		"ypos"				"c-30"
+		"wide"				"270"
+		"tall"				"30"
+		"visible"			"1"
 		
 		"DifficultyLabel"
 		{
@@ -84,7 +83,7 @@
 	
 	"PlayerListBackground"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"PlayerListBackground"
 		"xpos"			"9999"
 		"ypos"			"9999"
@@ -94,13 +93,12 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/tournament_panel_brown"
+		"scaleImage"	"1"
 		
-		"scaleImage"		"1"
-		
-		"src_corner_height"	"22"				// pixels inside the image
-		"src_corner_width"	"22"
+		"src_corner_height"		"22"		// pixels inside the image
+		"src_corner_width"		"22"
 	
-		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_width"		"0"			// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"0"	
 	}
 	
@@ -134,7 +132,7 @@
 		
 		"CreditStatsBackground"
 		{
-			"ControlName"		"ScalableImagePanel"
+			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"CreditStatsBackground"
 			"xpos"			"9999"
 			"ypos"			"9999"
@@ -147,7 +145,7 @@
 			"enabled"		"1"
 			"image"			"../HUD/tournament_panel_brown"
 
-			"src_corner_height"	"22"				// pixels inside the image
+			"src_corner_height"	"22"			// pixels inside the image
 			"src_corner_width"	"22"
 		
 			"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
@@ -214,8 +212,8 @@
 			"wide"			"200"
 			"visible"		"1"
 		}
-		
-				"RespecStatusLabel"
+
+		"RespecStatusLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RespecStatusLabel"

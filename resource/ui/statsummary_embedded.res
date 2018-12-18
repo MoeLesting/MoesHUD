@@ -3,18 +3,19 @@
 	"TFStatsSummary"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"	"TFStatsSummary"
-		"xpos"		"0"
-		"ypos"		"0"
-		"wide"		"f0"
-		"tall"		"480"
-		"visible"	"0"
-		"enabled"	"1"
+		"fieldName"		"TFStatsSummary"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"0"
+		"enabled"		"1"
 		"bgcolor_override"	"25 25 25 255"
 	}
+
 	"MainBackground"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"MainBackground"
 		"xpos"			"0"
 		"ypos"			"0"
@@ -23,15 +24,16 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			""
-		"scaleImage"		"1"
+		"scaleImage"	"1"
 	}
+
 	"OnYourWayLabel" [$WIN32]
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"OnYourWayLabel"
 		"font"			"CerbeticaBold24"
 		"labelText"		"#LoadingMap"
-		"textAlignment"		"west"
+		"textAlignment"	"west"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"50"
@@ -42,20 +44,21 @@
 		"visible"		"0"
 		"enabled"		"0"
 	}					
+
 	"MapLabel"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"MapLabel"
 		"font"			"HudFontMediumBigBold" [$WIN32]
 		"font"			"HudFontMediumBold" [$X360]
 		"labelText"		"%maplabel%"
-		"textAlignment"		"center" [$WIN32]
-		"textAlignment"		"west" [$X360]
+		"textAlignment"	"center" [$WIN32]
+		"textAlignment"	"west" [$X360]
 		"xpos"			"5" [$WIN32]
 		"xpos"			"60" [$X360]
 		"ypos"			"92"
-		"ypos_hidef"		"425"
-		"ypos_lodef"		"425"
+		"ypos_hidef"	"425"
+		"ypos_lodef"	"425"
 		"zpos"			"50"
 		"wide"			"350" [$WIN32]
 		"wide"			"600" [$X360]
@@ -65,6 +68,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 	}
+
 	"MapType" [$WIN32]
 	{
 		"ControlName"	"CExLabel"
@@ -81,45 +85,46 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-	}						
+	}
+
 	"StatData"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"	"StatData"
-		"xpos"		"0"
-		"ypos"		"-130"
-		"zpos"		"1"
-		"wide"		"f0"
-		"tall"		"480"
-		"visible"	"1"
-		"enabled"	"1"
+		"fieldName"		"StatData"
+		"xpos"			"0"
+		"ypos"			"-130"
+		"zpos"			"1"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
 
 		"NonInteractiveHeaders"
 		{
 			"ControlName"	"EditablePanel"
-			"fieldName"	"NonInteractiveHeaders"
-			"xpos"		"0"
-			"ypos"		"0"
-			"zpos"		"2"
-			"wide"		"f0"
-			"tall"		"480"
-			"visible"	"1"
-			"enabled"	"1"
+			"fieldName"		"NonInteractiveHeaders"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"2"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
 	
 			"BarChartLabelA"
 			{
-				"ControlName"		"Label"
+				"ControlName"	"Label"
 				"fieldName"		"BarChartLabelA"
 				"font"			"CerbeticaBold12"
 				"font_hidef"	"Default"
 				"labelText"		"#StatSummary_StatTitle_MostPoints"
-				"textAlignment"		"east"
+				"textAlignment"	"east"
 				"xpos"			"c-282"
-				"xpos_hidef"			"c-210"
-				"xpos_lodef"			"c-210"
+				"xpos_hidef"	"c-210"
+				"xpos_lodef"	"c-210"
 				"ypos"			"212"
-				"ypos_hidef"			"49"
-				"ypos_lodef"			"49"
+				"ypos_hidef"	"49"
+				"ypos_lodef"	"49"
 				"zpos"			"5"
 				"wide"			"150" [!$X360]
 				"wide"			"170" [$X360]
@@ -131,18 +136,18 @@
 			}
 			"BarChartLabelB"
 			{
-				"ControlName"		"Label"
+				"ControlName"	"Label"
 				"fieldName"		"BarChartLabelB"
 				"font"			"CerbeticaBold12"
 				"font_hidef"	"Default"
 				"labelText"		"#StatSummary_StatTitle_TotalPlaytime"
-				"textAlignment"		"west"
+				"textAlignment"	"west"
 				"xpos"			"c-127"
-				"xpos_hidef"			"c-35"
-				"xpos_lodef"			"c-35"
+				"xpos_hidef"	"c-35"
+				"xpos_lodef"	"c-35"
 				"ypos"			"212"
-				"ypos_hidef"			"49"
-				"ypos_lodef"			"49"
+				"ypos_hidef"	"49"
+				"ypos_lodef"	"49"
 				"zpos"			"5"
 				"wide"			"150"
 				"tall"			"20"
@@ -153,138 +158,138 @@
 			}			
 			"OverallRecordLabel"
 			{
-				"ControlName"		"Label"
+				"ControlName"	"Label"
 				"fieldName"		"OverallRecordLabel"
 				"font"			"CerbeticaBold12"
 				"labelText"		"#StatSummary_Label_AsAnyClass"
-				"textAlignment"		"west"
+				"textAlignment"	"west"
 				"xpos"			"c+130"
-				"xpos_hidef"			"c+110"
+				"xpos_hidef"	"c+110"
 				"ypos"			"200"
-				"ypos_hidef"			"150"
+				"ypos_hidef"	"150"
 				"zpos"			"5"
 				"wide"			"200"
 				"tall"			"20"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
-				"visible_hidef"		"0"
-				"visible_lodef"		"0"
+				"visible_hidef"	"0"
+				"visible_lodef"	"0"
 				"enabled"		"1"
-				"enabled_hidef"		"0"
-				"enabled_lodef"		"0"
-			}				
+				"enabled_hidef"	"0"
+				"enabled_lodef"	"0"
+			}
 		}
-		"InteractiveHeaders"	
+		"InteractiveHeaders"
 		{
 			"ControlName"	"EditablePanel"
-			"fieldName"	"InteractiveHeaders"
-			"xpos"		"0"
-			"ypos"		"0"
-			"zpos"		"2"
-			"wide"		"f0"
-			"tall"		"480"
-			"visible"	"1"
-			"enabled"	"1"
+			"fieldName"		"InteractiveHeaders"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"2"
+			"wide"			"f0"
+			"tall"			"480"
+			"visible"		"1"
+			"enabled"		"1"
 
 			"BarChartComboA"
 			{
-				"ControlName"		"ComboBox"
+				"ControlName"	"ComboBox"
 				"fieldName"		"BarChartComboA"
-				"xpos"		"c-285"
-				"ypos"		"212"
-				"zpos"		"10"
-				"wide"		"154"
-				"tall"		"14"
-				"autoResize"		"0"
+				"xpos"			"c-285"
+				"ypos"			"212"
+				"zpos"			"10"
+				"wide"			"154"
+				"tall"			"14"
+				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"tabPosition"		"1"
-				"textHidden"		"0"
+				"tabPosition"	"1"
+				"textHidden"	"0"
 				"editable"		"0"
 				"maxchars"		"-1"
-				"NumericInputOnly"		"0"
-				"unicode"		"0"
+				"NumericInputOnly"	"0"
+				"unicode"			"0"
 			}
 			"BarChartComboB"
 			{
-				"ControlName"		"ComboBox"
+				"ControlName"	"ComboBox"
 				"fieldName"		"BarChartComboB"
-				"xpos"		"c-127"
-				"ypos"		"212"
-				"zpos"		"10"
-				"wide"		"154"
-				"tall"		"14"
-				"autoResize"		"0"
+				"xpos"			"c-127"
+				"ypos"			"212"
+				"zpos"			"10"
+				"wide"			"154"
+				"tall"			"14"
+				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"tabPosition"		"1"
-				"textHidden"		"0"
+				"tabPosition"	"1"
+				"textHidden"	"0"
 				"editable"		"0"
 				"maxchars"		"-1"
-				"NumericInputOnly"		"0"
-				"unicode"		"0"
+				"NumericInputOnly"	"0"
+				"unicode"			"0"
 			}
 			"ClassCombo"
 			{
-				"ControlName"		"ComboBox"
+				"ControlName"	"ComboBox"
 				"fieldName"		"ClassCombo"
-				"xpos"		"c+124"
-				"ypos"		"200"
-				"zpos"		"10"
-				"wide"		"167"
-				"tall"		"14"
-				"autoResize"		"0"
+				"xpos"			"c+124"
+				"ypos"			"200"
+				"zpos"			"10"
+				"wide"			"167"
+				"tall"			"14"
+				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"tabPosition"		"1"
-				"textHidden"		"0"
+				"tabPosition"	"1"
+				"textHidden"	"0"
 				"editable"		"0"
 				"maxchars"		"-1"
-				"NumericInputOnly"		"0"
-				"unicode"		"0"
+				"NumericInputOnly"	"0"
+				"unicode"			"0"
 			}
 		}
 		"AveragesBG"
 		{
-			"ControlName"		"EditablePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"AveragesBG"
 			"xpos"			"c-295"
-			"xpos_hidef"			"c-283"
-			"xpos_lodef"			"c-283"
+			"xpos_hidef"	"c-283"
+			"xpos_lodef"	"c-283"
 			"ypos"			"165"
-			"ypos_hidef"			"22"
-			"ypos_lodef"			"22"
+			"ypos_hidef"	"22"
+			"ypos_lodef"	"22"
 			"wide"			"600"
 			"tall"			"300"
-			"tall_hidef"			"633"
-			"tall_lodef"			"633"
+			"tall_hidef"	"633"
+			"tall_lodef"	"633"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"NoBorder"
-			"bgcolor_override"		"15 15 15 255"
+			"bgcolor_override"	"15 15 15 255"
 		}
 		"AveragesLabel"
 		{
-			"ControlName"		"Label"
+			"ControlName"	"Label"
 			"fieldName"		"AveragesLabel"
 			"font"			"ScoreboardMedium"
 			"labelText"		"#StatSummary_Label_PerformanceReport"
-			"textAlignment"		"west"
-			"textAlignment_hidef"		"center"
-			"textAlignment_lodef"		"center"
+			"textAlignment"	"west"
+			"textAlignment_hidef"	"center"
+			"textAlignment_lodef"	"center"
 			"xpos"			"c-285"
-			"xpos_hidef"			"c-193"
-			"xpos_lodef"			"c-193"
+			"xpos_hidef"	"c-193"
+			"xpos_lodef"	"c-193"
 			"ypos"			"170" [!$OSX]
 			"ypos"			"185" [$OSX]
-			"ypos_hidef"			"32"
-			"ypos_lodef"			"32"
+			"ypos_hidef"	"32"
+			"ypos_lodef"	"32"
 			"wide"			"300"
 			"tall"			"20"
 			"autoResize"	"0"
@@ -294,14 +299,14 @@
 		}
 		"ClassBarBG1A"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBarBG1A"
 			"xpos"			"c-285"
-			"xpos_hidef"			"c-193"
-			"xpos_lodef"			"c-193"
+			"xpos_hidef"	"c-193"
+			"xpos_lodef"	"c-193"
 			"ypos"			"230"
-			"ypos_hidef"			"67"
-			"ypos_lodef"			"67"
+			"ypos_hidef"	"67"
+			"ypos_lodef"	"67"
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -315,14 +320,14 @@
 		}	
 		"ClassBarBG1B"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBarBG1B"
 			"xpos"			"c+30"
-			"xpos_hidef"			"c+122"
-			"xpos_lodef"			"c+122"
+			"xpos_hidef"	"c+122"
+			"xpos_lodef"	"c+122"
 			"ypos"			"230"
-			"ypos_hidef"			"67"
-			"ypos_lodef"			"67"
+			"ypos_hidef"	"67"
+			"ypos_lodef"	"67"
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -336,14 +341,14 @@
 		}
 		"ClassBar1A"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBar1A"
 			"xpos"			"c-282"
-			"xpos_hidef"			"c-190"
-			"xpos_lodef"			"c-190"
+			"xpos_hidef"	"c-190"
+			"xpos_lodef"	"c-190"
 			"ypos"			"232"
-			"ypos_hidef"			"69"
-			"ypos_lodef"			"69"
+			"ypos_hidef"	"69"
+			"ypos_lodef"	"69"
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -357,14 +362,14 @@
 		}
 		"ClassBar1B"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBar1B"
 			"xpos"			"c-127"
-			"xpos_hidef"			"c-35"
-			"xpos_lodef"			"c-35"
+			"xpos_hidef"	"c-35"
+			"xpos_lodef"	"c-35"
 			"ypos"			"232"
-			"ypos_hidef"			"69"
-			"ypos_lodef"			"69"
+			"ypos_hidef"	"69"
+			"ypos_lodef"	"69"
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -375,20 +380,20 @@
 			"tabPosition"	"0"	
 			"fillcolor"		"StatBar1"
 			"PaintBackgroundType"	"0"
-		}	
+		}
 		"ClassBarLabel1A"
 		{
-			"ControlName"		"Label"
+			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel1A"
 			"font"			"CerbeticaBold12"
 			"labelText"		"%classbarlabel1A%"
-			"textAlignment"		"west"
+			"textAlignment"	"west"
 			"xpos"			"c-282"
-			"xpos_hidef"			"c-190"
-			"xpos_lodef"			"c-190"
+			"xpos_hidef"	"c-190"
+			"xpos_lodef"	"c-190"
 			"ypos"			"228"
-			"ypos_hidef"			"65"
-			"ypos_lodef"			"65"
+			"ypos_hidef"	"65"
+			"ypos_lodef"	"65"
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -399,11 +404,11 @@
 		}				
 		"ClassBarLabel1B"
 		{
-			"ControlName"		"Label"
+			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel1B"
 			"font"			"CerbeticaBold12"
 			"labelText"		"%classbarlabel1B%"
-			"textAlignment"		"west"
+			"textAlignment"	"west"
 			"xpos"			"c-127"
 			"ypos"			"228"
 			"zpos"			"6"
@@ -413,23 +418,23 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"		"TanLight"
-		}				
+			"fgcolor_override"	"TanLight"
+		}
 		"ClassLabel1"
 		{
-			"ControlName"		"Label"
+			"ControlName"	"Label"
 			"fieldName"		"ClassLabel1"
 			"font"			"CerbeticaBold12"
 			"font_hidef"	"Default"
-			"font_lodef"			"CerbeticaBold12"
+			"font_lodef"	"CerbeticaBold12"
 			"labelText"		"%class1%"
-			"textAlignment"		"west"
+			"textAlignment"	"west"
 			"xpos"			"c+34"
-			"xpos_hidef"			"c+126"
-			"xpos_lodef"			"c+126"
+			"xpos_hidef"	"c+126"
+			"xpos_lodef"	"c+126"
 			"ypos"			"228"
-			"ypos_hidef"			"65"
-			"ypos_lodef"			"65"
+			"ypos_hidef"	"65"
+			"ypos_lodef"	"65"
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -437,17 +442,17 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassBarBG2A"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBarBG2A"
 			"xpos"			"c-285"
-			"xpos_hidef"			"c-193"
-			"xpos_lodef"			"c-193"
+			"xpos_hidef"	"c-193"
+			"xpos_lodef"	"c-193"
 			"ypos"			"248"
-			"ypos_hidef"			"85"
-			"ypos_lodef"			"85"
+			"ypos_hidef"	"85"
+			"ypos_lodef"	"85"
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -461,14 +466,14 @@
 		}
 		"ClassBarBG2B"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBarBG2B"
 			"xpos"			"c+30"
-			"xpos_hidef"			"c+122"
-			"xpos_lodef"			"c+122"
+			"xpos_hidef"	"c+122"
+			"xpos_lodef"	"c+122"
 			"ypos"			"248"
-			"ypos_hidef"			"85"
-			"ypos_lodef"			"85"
+			"ypos_hidef"	"85"
+			"ypos_lodef"	"85"
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -482,14 +487,14 @@
 		}
 		"ClassBar2A"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBar2A"
 			"xpos"			"c-282"
-			"xpos_hidef"			"c-190"
-			"xpos_lodef"			"c-190"
+			"xpos_hidef"	"c-190"
+			"xpos_lodef"	"c-190"
 			"ypos"			"250"
-			"ypos_hidef"			"87"
-			"ypos_lodef"			"87"
+			"ypos_hidef"	"87"
+			"ypos_lodef"	"87"
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -503,14 +508,14 @@
 		}	
 		"ClassBar2B"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBar2B"
 			"xpos"			"c-127"
-			"xpos_hidef"			"c-35"
-			"xpos_lodef"			"c-35"
+			"xpos_hidef"	"c-35"
+			"xpos_lodef"	"c-35"
 			"ypos"			"250"
-			"ypos_hidef"			"87"
-			"ypos_lodef"			"87"
+			"ypos_hidef"	"87"
+			"ypos_lodef"	"87"
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -524,17 +529,17 @@
 		}	
 		"ClassBarLabel2A"
 		{
-			"ControlName"		"Label"
+			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel2A"
 			"font"			"CerbeticaBold12"
 			"labelText"		"%classbarlabel2A%"
-			"textAlignment"		"west"
+			"textAlignment"	"west"
 			"xpos"			"c-282"
-			"xpos_hidef"			"c-190"
-			"xpos_lodef"			"c-190"
+			"xpos_hidef"	"c-190"
+			"xpos_lodef"	"c-190"
 			"ypos"			"246"
-			"ypos_hidef"			"83"
-			"ypos_lodef"			"83"
+			"ypos_hidef"	"83"
+			"ypos_lodef"	"83"
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -545,17 +550,17 @@
 		}				
 		"ClassBarLabel2B"
 		{
-			"ControlName"		"Label"
+			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel2B"
 			"font"			"CerbeticaBold12"
 			"labelText"		"%classbarlabel2B%"
-			"textAlignment"		"west"
+			"textAlignment"	"west"
 			"xpos"			"c-127"
-			"xpos_hidef"			"c-35"
-			"xpos_lodef"			"c-35"
+			"xpos_hidef"	"c-35"
+			"xpos_lodef"	"c-35"
 			"ypos"			"246"
-			"ypos_hidef"			"83"
-			"ypos_lodef"			"83"
+			"ypos_hidef"	"83"
+			"ypos_lodef"	"83"
 			"zpos"			"6"
 			"wide"			"100"
 			"tall"			"20"
@@ -566,19 +571,19 @@
 		}				
 		"ClassLabel2"
 		{
-			"ControlName"		"Label"
+			"ControlName"	"Label"
 			"fieldName"		"ClassLabel2"
 			"font"			"CerbeticaBold12"
 			"font_hidef"	"Default"
 			"font_lodef"	"CerbeticaBold12"
 			"labelText"		"%class2%"
-			"textAlignment"		"west"
+			"textAlignment"	"west"
 			"xpos"			"c+34"
-			"xpos_hidef"			"c+126"
-			"xpos_lodef"			"c+126"
+			"xpos_hidef"	"c+126"
+			"xpos_lodef"	"c+126"
 			"ypos"			"246"
-			"ypos_hidef"			"83"
-			"ypos_lodef"			"83"
+			"ypos_hidef"	"83"
+			"ypos_lodef"	"83"
 			"zpos"			"5"
 			"wide"			"300"
 			"tall"			"20"
@@ -589,14 +594,14 @@
 		}				
 		"ClassBarBG3A"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBarBG3A"
 			"xpos"			"c-285"
-			"xpos_hidef"			"c-193"
-			"xpos_lodef"			"c-193"
+			"xpos_hidef"	"c-193"
+			"xpos_lodef"	"c-193"
 			"ypos"			"266"
-			"ypos_hidef"			"103"
-			"ypos_lodef"			"103"
+			"ypos_hidef"	"103"
+			"ypos_lodef"	"103"
 			"zpos"			"2"
 			"wide"			"312"
 			"tall"			"16"
@@ -610,14 +615,14 @@
 		}
 		"ClassBarBG3B"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBarBG3B"
 			"xpos"			"c+30"
-			"xpos_hidef"			"c+122"
-			"xpos_lodef"			"c+122"
+			"xpos_hidef"	"c+122"
+			"xpos_lodef"	"c+122"
 			"ypos"			"266"
-			"ypos_hidef"			"103"
-			"ypos_lodef"			"103"
+			"ypos_hidef"	"103"
+			"ypos_lodef"	"103"
 			"zpos"			"2"
 			"wide"			"70"
 			"tall"			"16"
@@ -631,14 +636,14 @@
 		}
 		"ClassBar3A"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBar3A"
 			"xpos"			"c-282"
-			"xpos_hidef"			"c-190"
-			"xpos_lodef"			"c-190"
+			"xpos_hidef"	"c-190"
+			"xpos_lodef"	"c-190"
 			"ypos"			"268"
-			"ypos_hidef"			"105"
-			"ypos_lodef"			"105"
+			"ypos_hidef"	"105"
+			"ypos_lodef"	"105"
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -652,14 +657,14 @@
 		}	
 		"ClassBar3B"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"ImagePanel"
 			"fieldName"		"ClassBar3B"
 			"xpos"			"c-127"
-			"xpos_hidef"			"c-35"
-			"xpos_lodef"			"c-35"
+			"xpos_hidef"	"c-35"
+			"xpos_lodef"	"c-35"
 			"ypos"			"268"
-			"ypos_hidef"			"105"
-			"ypos_lodef"			"105"
+			"ypos_hidef"	"105"
+			"ypos_lodef"	"105"
 			"zpos"			"3"
 			"wide"			"151"
 			"tall"			"12"
@@ -712,7 +717,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassLabel3"
 		{
 			"ControlName"		"Label"
@@ -798,7 +803,7 @@
 			"tabPosition"	"0"	
 			"fillcolor"		"StatBar4"
 			"PaintBackgroundType"	"0"
-		}	
+		}
 		"ClassBar4B"
 		{
 			"ControlName"		"ImagePanel"
@@ -819,7 +824,7 @@
 			"tabPosition"	"0"	
 			"fillcolor"		"StatBar4"
 			"PaintBackgroundType"	"0"
-		}	
+		}
 		"ClassBarLabel4A"
 		{
 			"ControlName"		"Label"
@@ -840,7 +845,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassBarLabel4B"
 		{
 			"ControlName"		"Label"
@@ -861,7 +866,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassLabel4"
 		{
 			"ControlName"		"Label"
@@ -884,7 +889,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassBarBG5A"
 		{
 			"ControlName"		"ImagePanel"
@@ -989,7 +994,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassBarLabel5B"
 		{
 			"ControlName"		"Label"
@@ -1010,7 +1015,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassLabel5"
 		{
 			"ControlName"		"Label"
@@ -1033,7 +1038,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassBarBG6A"
 		{
 			"ControlName"		"ImagePanel"
@@ -1331,7 +1336,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}		
+		}
 		"ClassBarBG8A"
 		{
 			"ControlName"		"ImagePanel"
@@ -1436,7 +1441,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassBarLabel8B"
 		{
 			"ControlName"		"Label"
@@ -1457,7 +1462,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassLabel8"
 		{
 			"ControlName"		"Label"
@@ -1480,7 +1485,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}		
+		}
 		"ClassBarBG9A"
 		{
 			"ControlName"		"ImagePanel"
@@ -1564,7 +1569,7 @@
 			"tabPosition"	"0"	
 			"fillcolor"		"StatBar9"
 			"PaintBackgroundType"	"0"
-		}	
+		}
 		"ClassBarLabel9A"
 		{
 			"ControlName"		"Label"
@@ -1585,7 +1590,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassBarLabel9B"
 		{
 			"ControlName"		"Label"
@@ -1606,7 +1611,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}				
+		}
 		"ClassLabel9"
 		{
 			"ControlName"		"Label"
@@ -1629,7 +1634,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}		
+		}
 		"RecordsBG"
 		{
 			"ControlName"		"EditablePanel"
@@ -1647,8 +1652,8 @@
 			"visible_hidef"		"0"
 			"visible_lodef"		"0"
 			"enabled"		"1"
-			"enabled_hidef"		"0"			
-			"enabled_lodef"		"0"			
+			"enabled_hidef"		"0"
+			"enabled_lodef"		"0"
 			"border"		"NoBorder"
 			"bgcolor_override"	"15 15 15 255"
 		}
@@ -1736,7 +1741,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord1Value"
 		{
 			"ControlName"		"Label"
@@ -1760,7 +1765,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord2Label"
 		{
 			"ControlName"		"Label"
@@ -1784,7 +1789,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord2Value"
 		{
 			"ControlName"		"Label"
@@ -1808,7 +1813,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord3Label"
 		{
 			"ControlName"		"Label"
@@ -1832,7 +1837,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord3Value"
 		{
 			"ControlName"		"Label"
@@ -1856,7 +1861,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord4Label"
 		{
 			"ControlName"		"Label"
@@ -1880,7 +1885,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord4Value"
 		{
 			"ControlName"		"Label"
@@ -1904,7 +1909,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord5Label"
 		{
 			"ControlName"		"Label"
@@ -1928,7 +1933,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord5Value"
 		{
 			"ControlName"		"Label"
@@ -1952,7 +1957,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord6Label"
 		{
 			"ControlName"		"Label"
@@ -1976,7 +1981,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord6Value"
 		{
 			"ControlName"		"Label"
@@ -2000,7 +2005,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord7Label"
 		{
 			"ControlName"		"Label"
@@ -2024,7 +2029,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord7Value"
 		{
 			"ControlName"		"Label"
@@ -2048,7 +2053,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord8Label"
 		{
 			"ControlName"		"Label"
@@ -2072,7 +2077,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord8Value"
 		{
 			"ControlName"		"Label"
@@ -2120,7 +2125,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord9Value"
 		{
 			"ControlName"		"Label"
@@ -2168,7 +2173,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord10Value"
 		{
 			"ControlName"		"Label"
@@ -2216,7 +2221,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord11Value"
 		{
 			"ControlName"		"Label"
@@ -2264,7 +2269,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord12Value"
 		{
 			"ControlName"		"Label"
@@ -2312,7 +2317,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord13Value"
 		{
 			"ControlName"		"Label"
@@ -2360,7 +2365,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord14Value"
 		{
 			"ControlName"		"Label"
@@ -2408,7 +2413,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-		}							
+		}
 		"OverallRecord15Value"
 		{
 			"ControlName"		"Label"
@@ -2496,14 +2501,14 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"nexttip"
-			"defaultBgColor_override"	"15 15 15 255"
-			"armedBgColor_override"		"25 25 25 255"
-			"depressedBgColor_override"	"25 25 25 255"
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override" 	"TanLight"
-			"depressedFgColor_override" "TanLight"
-			"border_default"			"NoBorder"
-			"border_armed"				"NoBorder"
+		"defaultBgColor_override"	"15 15 15 255"
+		"armedBgColor_override"		"25 25 25 255"
+		"depressedBgColor_override"	"25 25 25 255"
+		"defaultFgColor_override"	"TanLight"
+		"armedFgColor_override" 	"TanLight"
+		"depressedFgColor_override" "TanLight"
+		"border_default"			"NoBorder"
+		"border_armed"				"NoBorder"
 	}
 	"ResetStatsButton" [$WIN32]
 	{
@@ -2524,14 +2529,14 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"resetstatsbutton"
-			"defaultBgColor_override"	"15 15 15 255"
-			"armedBgColor_override"		"25 25 25 255"
-			"depressedBgColor_override"	"25 25 25 255"
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override" 	"TanLight"
-			"depressedFgColor_override" "TanLight"
-			"border_default"			"NoBorder"
-			"border_armed"				"NoBorder"
+		"defaultBgColor_override"	"15 15 15 255"
+		"armedBgColor_override"		"25 25 25 255"
+		"depressedBgColor_override"	"25 25 25 255"
+		"defaultFgColor_override"	"TanLight"
+		"armedFgColor_override" 	"TanLight"
+		"depressedFgColor_override" "TanLight"
+		"border_default"			"NoBorder"
+		"border_armed"				"NoBorder"
 	}
 	"CloseButton" [$WIN32]
 	{
@@ -2552,14 +2557,14 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"vguicancel"
-					"defaultBgColor_override"	"15 15 15 255"
-			"armedBgColor_override"		"25 25 25 255"
-			"depressedBgColor_override"	"25 25 25 255"
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override" 	"TanLight"
-			"depressedFgColor_override" "TanLight"
-			"border_default"			"NoBorder"
-			"border_armed"				"NoBorder"
+		"defaultBgColor_override"	"15 15 15 255"
+		"armedBgColor_override"		"25 25 25 255"
+		"depressedBgColor_override"	"25 25 25 255"
+		"defaultFgColor_override"	"TanLight"
+		"armedFgColor_override" 	"TanLight"
+		"depressedFgColor_override" "TanLight"
+		"border_default"			"NoBorder"
+		"border_armed"				"NoBorder"
 	}
 	"Footer" [$X360]
 	{
@@ -2580,20 +2585,20 @@
 		"textadjust"		"3"
 		"textadjust_lodef"		"0"
 		"zpos"				"6"
-		"fgcolor"			"HudOffWhite" 	
+		"fgcolor"			"HudOffWhite" 
 		
 		"button"
 		{
 			"name"		"back"
 			"text"		"#GameUI_Back"
-			"icon"		"#GameUI_Icons_B_BUTTON"	
+			"icon"		"#GameUI_Icons_B_BUTTON"
 		}
 		
 		"button"
 		{
 			"name"		"nexttip"
 			"text"		"#TF_NextTip_360"
-			"icon"		"#GameUI_Icons_A_BUTTON"	
+			"icon"		"#GameUI_Icons_A_BUTTON"
 		}
 	}		
 	"TitleBanner" [$X360]

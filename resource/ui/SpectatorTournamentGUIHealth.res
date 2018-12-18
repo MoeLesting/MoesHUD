@@ -12,7 +12,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
-	}		
+	}
+	
 	"PlayerStatusHealthImageBG"
 	{
 		"ControlName"	"ImagePanel"
@@ -26,35 +27,38 @@
 		"enabled"		"1"
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
-	}	
+	}
+	
 	"BuildingStatusHealthImageBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BuildingStatusHealthImageBG"
-		"xpos"	"9999"
-		"ypos"	"9999"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"2"
-		"wide"	"22"
-		"tall"	"22"
+		"wide"			"22"
+		"tall"			"22"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_equip_bg"
 		"scaleImage"	"1"	
-	}	
+	}
+	
 	"PlayerStatusHealthBonusImage"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"	"9999"
-		"ypos"	"9999"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"3"
-		"wide"	"12"
-		"tall"	"12"
+		"wide"			"12"
+		"tall"			"12"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
+	
 	"PlayerStatusHealthValueSpectator"
 	{
 		"ControlName"	"CExLabel"
@@ -71,6 +75,7 @@
 		"font"			"CerbeticaBold16"
 		"fgcolor"		"Spec Health Normal"
 	}
+	
 	"PlayerStatusHealthValueSpectatorBG"
 	{
 		"ControlName"	"CExLabel"
@@ -86,5 +91,5 @@
 		"textAlignment"	"center"	
 		"font"			"CerbeticaBold16"
 		"fgcolor"		"0 0 0 100"
-	}		
+	}
 }
