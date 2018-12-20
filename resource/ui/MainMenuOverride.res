@@ -264,7 +264,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"Moe'sHUD"
+		"labelText"		"moeshud"
 		"font"			"Cerbetica20"
 		"textAlignment"	"west"
 		"textinsetx"	"0"
